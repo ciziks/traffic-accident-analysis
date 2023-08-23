@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "traffic-accident-analysis"
+version = "0.1.0"
+description = ""
+authors = ["Lucas Ciziks"]
+readme = "README.md"
+packages = [{include = "traffic_accident_analysis"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pandas = "^2.0.3"
+matplotlib = "^3.7.2"
+ipykernel = "^6.25.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
