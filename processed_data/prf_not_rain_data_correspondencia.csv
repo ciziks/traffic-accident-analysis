@@ -1,0 +1,1136 @@
+,dia_semana,causa_acidente,tipo_acidente,classificacao_acidente,fase_dia,sentido_via,condicao_metereologica,tipo_pista,tracado_via,uso_solo
+0,sábado,Reação tardia ou ineficiente do condutor,Queda de ocupante de veículo,Sem Vítimas,Pleno dia,Decrescente,Garoa/Chuvisco,Múltipla,Reta,Sim
+1,sábado,Manobra de mudança de faixa,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Dupla,Interseção de vias,Sim
+2,domingo,Animais na Pista,Queda de ocupante de veículo,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Simples,Reta,Não
+3,domingo,Animais na Pista,Atropelamento de Animal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+4,quinta-feira,Reação tardia ou ineficiente do condutor,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Dupla,Reta,Sim
+5,domingo,Reação tardia ou ineficiente do condutor,Colisão transversal,Com Vítimas Fatais,Anoitecer,Decrescente,Céu Claro,Dupla,Reta,Sim
+6,segunda-feira,Entrada inopinada do pedestre,Atropelamento de Pedestre,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+7,domingo,Manobra de mudança de faixa,Colisão transversal,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+8,terça-feira,Ausência de reação do condutor,Tombamento,Com Vítimas Feridas,Plena Noite,Decrescente,Vento,Simples,Reta,Não
+9,sábado,Conversão proibida,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Sim
+10,terça-feira,Demais falhas mecânicas ou elétricas,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Dupla,Reta,Não
+11,segunda-feira,Manobra de mudança de faixa,Colisão traseira,Sem Vítimas,Amanhecer,Crescente,Céu Claro,Dupla,Não Informado,Sim
+12,sábado,Desrespeitar a preferência no cruzamento,Colisão transversal,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Simples,Rotatória,Sim
+13,quinta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Plena Noite,Decrescente,Chuva,Múltipla,Reta,Sim
+14,sábado,Entrada inopinada do pedestre,Queda de ocupante de veículo,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Simples,Reta,Não
+15,segunda-feira,Frear bruscamente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Múltipla,Reta,Sim
+16,sábado,Reação tardia ou ineficiente do condutor,Queda de ocupante de veículo,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Sim
+17,terça-feira,Deficiência do Sistema de Iluminação/Sinalização,Queda de ocupante de veículo,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Não
+18,sábado,Velocidade Incompatível,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Curva,Não
+19,segunda-feira,Pista Escorregadia,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Dupla,Curva,Não
+20,domingo,Ingestão de álcool pelo condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Chuva,Simples,Reta,Não
+21,sexta-feira,Ingestão de álcool e/ou substâncias psicoativas pelo pedestre,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Sim
+22,terça-feira,Carga excessiva e/ou mal acondicionada,Tombamento,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Desvio Temporário,Sim
+23,sexta-feira,Pista esburacada,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+24,terça-feira,Condutor deixou de manter distância do veículo da frente,Colisão frontal,Com Vítimas Feridas,Pleno dia,Crescente,Nevoeiro/Neblina,Simples,Reta,Sim
+25,sexta-feira,Condutor usando celular,Capotamento,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Não Informado,Não
+26,quarta-feira,Pedestre cruzava a pista fora da faixa,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+27,sábado,Demais falhas mecânicas ou elétricas,Incêndio,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Simples,Desvio Temporário,Não
+28,domingo,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Sem Vítimas,Pleno dia,Decrescente,Sol,Simples,Não Informado,Não
+29,domingo,Condutor Dormindo,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Não
+30,domingo,Ultrapassagem Indevida,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Sim
+31,sexta-feira,Pedestre cruzava a pista fora da faixa,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Simples,Reta,Sim
+32,terça-feira,Reação tardia ou ineficiente do condutor,Colisão com objeto,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Dupla,Reta,Não
+33,domingo,Animais na Pista,Atropelamento de Animal,Com Vítimas Feridas,Amanhecer,Crescente,Céu Claro,Simples,Não Informado,Não
+34,quinta-feira,Reação tardia ou ineficiente do condutor,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Simples,Reta,Sim
+35,sábado,Ingestão de álcool pelo condutor,Tombamento,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+36,domingo,Ingestão de álcool pelo condutor,Saída de leito carroçável,Sem Vítimas,Plena Noite,Crescente,Chuva,Dupla,Reta,Sim
+37,sexta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Curva,Sim
+38,terça-feira,Reação tardia ou ineficiente do condutor,Tombamento,Sem Vítimas,Pleno dia,Decrescente,Sol,Dupla,Reta,Sim
+39,sexta-feira,Ausência de reação do condutor,Engavetamento,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Simples,Reta,Não
+40,terça-feira,Ultrapassagem Indevida,Colisão lateral sentido oposto,Com Vítimas Fatais,Pleno dia,Crescente,Chuva,Simples,Reta,Não
+41,quarta-feira,Ultrapassagem Indevida,Colisão traseira,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Simples,Ponte,Sim
+42,domingo,Ausência de reação do condutor,Queda de ocupante de veículo,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Sim
+43,quinta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Não Informado,Não
+44,quinta-feira,Ausência de reação do condutor,Capotamento,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+45,quinta-feira,Velocidade Incompatível,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Simples,Não Informado,Não
+46,quinta-feira,Demais falhas na via,Colisão lateral sentido oposto,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+47,segunda-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Sem Vítimas,Anoitecer,Crescente,Céu Claro,Simples,Desvio Temporário,Não
+48,sexta-feira,Velocidade Incompatível,Capotamento,Com Vítimas Feridas,Anoitecer,Decrescente,Nublado,Simples,Curva,Não
+49,terça-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Desvio Temporário,Não
+50,segunda-feira,Ingestão de álcool pelo condutor,Saída de leito carroçável,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Não
+51,domingo,Ausência de reação do condutor,Tombamento,Sem Vítimas,Pleno dia,Decrescente,Sol,Dupla,Não Informado,Não
+52,domingo,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Dupla,Não Informado,Não
+53,segunda-feira,Animais na Pista,Atropelamento de Animal,Com Vítimas Feridas,Anoitecer,Crescente,Céu Claro,Múltipla,Reta,Não
+54,sábado,Reação tardia ou ineficiente do condutor,Queda de ocupante de veículo,Com Vítimas Feridas,Plena Noite,Crescente,Ignorado,Simples,Reta,Não
+55,sábado,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+56,terça-feira,Avarias e/ou desgaste excessivo no pneu,Tombamento,Com Vítimas Feridas,Plena Noite,Decrescente,Chuva,Múltipla,Curva,Sim
+57,segunda-feira,Ausência de reação do condutor,Colisão lateral mesmo sentido,Com Vítimas Feridas,Plena Noite,Decrescente,Garoa/Chuvisco,Simples,Reta,Sim
+58,domingo,Transitar na contramão,Colisão frontal,Com Vítimas Fatais,Plena Noite,Decrescente,Céu Claro,Dupla,Não Informado,Não
+59,quinta-feira,Reação tardia ou ineficiente do condutor,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+60,sábado,Ingestão de álcool pelo condutor,Colisão lateral sentido oposto,Com Vítimas Feridas,Amanhecer,Crescente,Nublado,Simples,Curva,Não
+61,quarta-feira,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Simples,Reta,Não
+62,terça-feira,Transitar na contramão,Colisão frontal,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Simples,Curva,Não
+63,segunda-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Amanhecer,Decrescente,Chuva,Dupla,Não Informado,Sim
+64,sábado,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Sem Vítimas,Pleno dia,Decrescente,Céu Claro,Dupla,Não Informado,Não
+65,sábado,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Múltipla,Desvio Temporário,Sim
+66,quarta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+67,quarta-feira,Reação tardia ou ineficiente do condutor,Colisão lateral mesmo sentido,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Múltipla,Reta,Sim
+68,terça-feira,Iluminação deficiente,Colisão frontal,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Simples,Viaduto,Não
+69,quinta-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Sim
+70,sexta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Sim
+71,sexta-feira,Desrespeitar a preferência no cruzamento,Colisão transversal,Com Vítimas Fatais,Anoitecer,Decrescente,Chuva,Simples,Não Informado,Não
+72,terça-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Rotatória,Sim
+73,sexta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Múltipla,Rotatória,Sim
+74,segunda-feira,Entrada inopinada do pedestre,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Simples,Reta,Não
+75,domingo,Ausência de reação do condutor,Tombamento,Com Vítimas Feridas,Plena Noite,Crescente,Chuva,Simples,Curva,Não
+76,sexta-feira,Condutor deixou de manter distância do veículo da frente,Colisão lateral mesmo sentido,Com Vítimas Feridas,Plena Noite,Decrescente,Garoa/Chuvisco,Múltipla,Reta,Sim
+77,quinta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+78,sábado,Manobra de mudança de faixa,Colisão com objeto,Com Vítimas Feridas,Amanhecer,Decrescente,Garoa/Chuvisco,Dupla,Reta,Sim
+79,quarta-feira,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Feridas,Amanhecer,Decrescente,Sol,Simples,Reta,Não
+80,quarta-feira,Condutor desrespeitou a iluminação vermelha do semáforo,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Não Informado,Sim
+81,segunda-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Dupla,Reta,Não
+82,domingo,Velocidade Incompatível,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Dupla,Não Informado,Sim
+83,quinta-feira,Desrespeitar a preferência no cruzamento,Colisão transversal,Sem Vítimas,Pleno dia,Decrescente,Chuva,Simples,Interseção de vias,Sim
+84,quinta-feira,Objeto estático sobre o leito carroçável,Colisão com objeto,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+85,terça-feira,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+86,sábado,Velocidade Incompatível,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Não Informado,Sim
+87,domingo,Acessar a via sem observar a presença dos outros veículos,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Nevoeiro/Neblina,Simples,Reta,Não
+88,terça-feira,Condutor deixou de manter distância do veículo da frente,Tombamento,Com Vítimas Feridas,Amanhecer,Decrescente,Nublado,Simples,Reta,Sim
+89,quarta-feira,Transitar na contramão,Colisão transversal,Com Vítimas Fatais,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+90,sábado,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+91,quinta-feira,Objeto estático sobre o leito carroçável,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+92,domingo,Demais falhas mecânicas ou elétricas,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+93,sábado,Retorno proibido,Colisão transversal,Com Vítimas Feridas,Anoitecer,Crescente,Chuva,Simples,Rotatória,Sim
+94,domingo,Transitar na contramão,Colisão frontal,Com Vítimas Fatais,Plena Noite,Decrescente,Chuva,Simples,Curva,Não
+95,segunda-feira,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Dupla,Reta,Não
+96,sábado,Condutor Dormindo,Saída de leito carroçável,Com Vítimas Feridas,Amanhecer,Crescente,Céu Claro,Dupla,Reta,Sim
+97,domingo,Acesso irregular,Colisão transversal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Sim
+98,quarta-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Não Informado,Sim
+99,terça-feira,Área urbana sem a presença de local apropriado para a travessia de pedestres,Atropelamento de Pedestre,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Não Informado,Sim
+100,sexta-feira,Manobra de mudança de faixa,Colisão frontal,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Simples,Reta,Sim
+101,quinta-feira,Ausência de sinalização,Colisão frontal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Curva,Não
+102,domingo,Reação tardia ou ineficiente do condutor,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Ignorado,Simples,Reta,Sim
+103,domingo,Transitar no acostamento,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Sim
+104,sábado,Reação tardia ou ineficiente do condutor,Atropelamento de Animal,Com Vítimas Feridas,Amanhecer,Decrescente,Nevoeiro/Neblina,Simples,Reta,Sim
+105,quarta-feira,Avarias e/ou desgaste excessivo no pneu,Tombamento,Com Vítimas Feridas,Anoitecer,Decrescente,Céu Claro,Dupla,Não Informado,Sim
+106,sexta-feira,Iluminação deficiente,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+107,sexta-feira,Acumulo de água sobre o pavimento,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Chuva,Dupla,Reta,Não
+108,terça-feira,Demais falhas mecânicas ou elétricas,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+109,sexta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+110,domingo,Condutor Dormindo,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Não
+111,terça-feira,Condutor deixou de manter distância do veículo da frente,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Múltipla,Reta,Sim
+112,sábado,Demais falhas mecânicas ou elétricas,Colisão transversal,Com Vítimas Fatais,Pleno dia,Crescente,Nublado,Simples,Reta,Não
+113,sábado,Carga excessiva e/ou mal acondicionada,Derramamento de carga,Sem Vítimas,Pleno dia,Decrescente,Sol,Dupla,Curva,Não
+114,segunda-feira,Manobra de mudança de faixa,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Dupla,Ponte,Sim
+115,quinta-feira,Velocidade Incompatível,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Múltipla,Reta,Não
+116,sexta-feira,Frear bruscamente,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Dupla,Reta,Não
+117,segunda-feira,Demais falhas mecânicas ou elétricas,Incêndio,Sem Vítimas,Pleno dia,Crescente,Nublado,Dupla,Reta,Não
+118,terça-feira,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Sim
+119,segunda-feira,Ausência de reação do condutor,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Simples,Viaduto,Não
+120,domingo,Demais falhas mecânicas ou elétricas,Incêndio,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Não
+121,quinta-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Fatais,Pleno dia,Crescente,Céu Claro,Múltipla,Curva,Sim
+122,sexta-feira,Desrespeitar a preferência no cruzamento,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Curva,Não
+123,sábado,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Ignorado,Dupla,Reta,Sim
+124,segunda-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Múltipla,Reta,Sim
+125,quinta-feira,Demais falhas mecânicas ou elétricas,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Ponte,Não
+126,domingo,Ausência de reação do condutor,Capotamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+127,domingo,Ingestão de álcool pelo condutor,Colisão transversal,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Simples,Interseção de vias,Sim
+128,terça-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+129,quinta-feira,Demais falhas mecânicas ou elétricas,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Dupla,Reta,Não
+130,sexta-feira,Reação tardia ou ineficiente do condutor,Colisão lateral sentido oposto,Sem Vítimas,Plena Noite,Decrescente,Nublado,Simples,Reta,Não
+131,quarta-feira,Transitar na contramão,Colisão lateral mesmo sentido,Com Vítimas Fatais,Pleno dia,Crescente,Nublado,Simples,Não Informado,Não
+132,sábado,Reação tardia ou ineficiente do condutor,Colisão com objeto,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Dupla,Reta,Não
+133,quarta-feira,Condutor deixou de manter distância do veículo da frente,Tombamento,Com Vítimas Feridas,Pleno dia,Decrescente,Garoa/Chuvisco,Simples,Curva,Sim
+134,segunda-feira,Avarias e/ou desgaste excessivo no pneu,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+135,sexta-feira,Entrada inopinada do pedestre,Atropelamento de Pedestre,Com Vítimas Fatais,Pleno dia,Crescente,Nublado,Simples,Reta,Não
+136,segunda-feira,Reação tardia ou ineficiente do condutor,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Simples,Reta,Não
+137,sexta-feira,Conversão proibida,Colisão transversal,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Sim
+138,quarta-feira,Demais falhas mecânicas ou elétricas,Incêndio,Sem Vítimas,Plena Noite,Crescente,Nublado,Múltipla,Desvio Temporário,Não
+139,domingo,Acumulo de água sobre o pavimento,Colisão com objeto,Com Vítimas Feridas,Pleno dia,Decrescente,Chuva,Simples,Reta,Não
+140,quinta-feira,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Sem Vítimas,Plena Noite,Decrescente,Nublado,Dupla,Reta,Sim
+141,segunda-feira,Acessar a via sem observar a presença dos outros veículos,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Múltipla,Interseção de vias,Sim
+142,domingo,Reação tardia ou ineficiente do condutor,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Simples,Reta,Sim
+143,sexta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Garoa/Chuvisco,Simples,Reta,Não
+144,sexta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão lateral mesmo sentido,Sem Vítimas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+145,quarta-feira,Acesso irregular,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Múltipla,Reta,Sim
+146,terça-feira,Entrada inopinada do pedestre,Atropelamento de Pedestre,Sem Vítimas,Anoitecer,Crescente,Céu Claro,Dupla,Não Informado,Sim
+147,quarta-feira,Pedestre andava na pista,Atropelamento de Pedestre,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Reta,Sim
+148,quarta-feira,Velocidade Incompatível,Tombamento,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Não
+149,sábado,Condutor deixou de manter distância do veículo da frente,Engavetamento,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+150,domingo,Velocidade Incompatível,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Curva,Não
+151,sexta-feira,Retorno proibido,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Dupla,Reta,Sim
+152,domingo,Ingestão de álcool pelo condutor,Colisão traseira,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Múltipla,Reta,Não
+153,segunda-feira,Ingestão de álcool pelo condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Múltipla,Reta,Sim
+154,segunda-feira,Pista Escorregadia,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Decrescente,Chuva,Simples,Não Informado,Não
+155,sexta-feira,Ausência de reação do condutor,Engavetamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+156,sábado,Ausência de reação do condutor,Saída de leito carroçável,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Simples,Interseção de vias,Sim
+157,segunda-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Dupla,Reta,Não
+158,sábado,Reação tardia ou ineficiente do condutor,Atropelamento de Pedestre,Com Vítimas Feridas,Anoitecer,Decrescente,Céu Claro,Simples,Reta,Sim
+159,segunda-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Múltipla,Reta,Sim
+160,segunda-feira,Manobra de mudança de faixa,Colisão traseira,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Retorno Regulamentado,Sim
+161,segunda-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Sem Vítimas,Pleno dia,Crescente,Sol,Simples,Ponte,Não
+162,sexta-feira,Animais na Pista,Atropelamento de Animal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Sim
+163,sábado,Demais falhas na via,Tombamento,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+164,terça-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+165,terça-feira,Condutor Dormindo,Saída de leito carroçável,Com Vítimas Feridas,Amanhecer,Decrescente,Ignorado,Simples,Reta,Não
+166,domingo,Demais falhas mecânicas ou elétricas,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+167,segunda-feira,Ausência de reação do condutor,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+168,domingo,Acessar a via sem observar a presença dos outros veículos,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+169,segunda-feira,Condutor Dormindo,Saída de leito carroçável,Com Vítimas Fatais,Plena Noite,Decrescente,Céu Claro,Simples,Não Informado,Não
+170,quarta-feira,Ultrapassagem Indevida,Colisão lateral mesmo sentido,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+171,terça-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Desvio Temporário,Sim
+172,domingo,Ausência de reação do condutor,Atropelamento de Animal,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Curva,Não
+173,terça-feira,Manobra de mudança de faixa,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+174,segunda-feira,Reação tardia ou ineficiente do condutor,Colisão com objeto,Com Vítimas Feridas,Pleno dia,Decrescente,Chuva,Simples,Reta,Não
+175,quinta-feira,Curva acentuada,Colisão com objeto,Com Vítimas Fatais,Pleno dia,Decrescente,Céu Claro,Simples,Curva,Não
+176,terça-feira,Velocidade Incompatível,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+177,domingo,Condutor Dormindo,Tombamento,Com Vítimas Feridas,Amanhecer,Decrescente,Nevoeiro/Neblina,Simples,Não Informado,Não
+178,domingo,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Feridas,Anoitecer,Decrescente,Céu Claro,Múltipla,Não Informado,Não
+179,sexta-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Fatais,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+180,quinta-feira,Animais na Pista,Atropelamento de Animal,Com Vítimas Feridas,Anoitecer,Crescente,Sol,Dupla,Reta,Sim
+181,segunda-feira,Pedestre cruzava a pista fora da faixa,Atropelamento de Pedestre,Com Vítimas Fatais,Anoitecer,Crescente,Nublado,Dupla,Reta,Sim
+182,quinta-feira,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+183,quinta-feira,Ausência de reação do condutor,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Desvio Temporário,Não
+184,sexta-feira,Pedestre andava na pista,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Interseção de vias,Sim
+185,segunda-feira,Avarias e/ou desgaste excessivo no pneu,Tombamento,Com Vítimas Feridas,Anoitecer,Crescente,Nublado,Dupla,Reta,Não
+186,sexta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Amanhecer,Decrescente,Nublado,Simples,Reta,Sim
+187,terça-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+188,domingo,Transitar na contramão,Colisão frontal,Com Vítimas Fatais,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+189,segunda-feira,Frear bruscamente,Engavetamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Sim
+190,terça-feira,Ausência de reação do condutor,Colisão lateral mesmo sentido,Sem Vítimas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+191,segunda-feira,Animais na Pista,Atropelamento de Animal,Sem Vítimas,Plena Noite,Decrescente,Nevoeiro/Neblina,Simples,Reta,Não
+192,terça-feira,Ausência de reação do condutor,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Dupla,Reta,Não
+193,domingo,Ingestão de álcool pelo condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+194,sábado,Mal súbito do condutor,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Não
+195,quinta-feira,Condutor Dormindo,Colisão traseira,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Sim
+196,domingo,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Amanhecer,Decrescente,Céu Claro,Múltipla,Reta,Não
+197,quinta-feira,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Desvio Temporário,Não
+198,sexta-feira,Ausência de reação do condutor,Colisão com objeto,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Reta,Não
+199,sábado,Velocidade Incompatível,Saída de leito carroçável,Com Vítimas Feridas,Amanhecer,Decrescente,Céu Claro,Simples,Curva,Não
+200,terça-feira,Ausência de reação do condutor,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Interseção de vias,Não
+201,segunda-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Simples,Reta,Sim
+202,domingo,Acumulo de água sobre o pavimento,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Chuva,Múltipla,Reta,Sim
+203,segunda-feira,Velocidade Incompatível,Colisão com objeto,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Dupla,Não Informado,Não
+204,segunda-feira,Reação tardia ou ineficiente do condutor,Tombamento,Com Vítimas Fatais,Anoitecer,Crescente,Céu Claro,Simples,Reta,Não
+205,segunda-feira,Demais falhas mecânicas ou elétricas,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+206,domingo,Reação tardia ou ineficiente do condutor,Tombamento,Com Vítimas Feridas,Anoitecer,Crescente,Céu Claro,Múltipla,Curva,Sim
+207,sexta-feira,Objeto estático sobre o leito carroçável,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Não Informado,Sim
+208,sábado,Velocidade Incompatível,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Túnel,Sim
+209,quinta-feira,Ultrapassagem Indevida,Colisão frontal,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Simples,Não Informado,Não
+210,quarta-feira,Demais falhas mecânicas ou elétricas,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Dupla,Curva,Sim
+211,sábado,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Simples,Não Informado,Não
+212,quarta-feira,Demais falhas mecânicas ou elétricas,Incêndio,Sem Vítimas,Plena Noite,Crescente,Nublado,Dupla,Reta,Não
+213,sábado,Carga excessiva e/ou mal acondicionada,Derramamento de carga,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Não
+214,quinta-feira,Reação tardia ou ineficiente do condutor,Colisão com objeto,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Rotatória,Não
+215,quarta-feira,Ultrapassagem Indevida,Colisão lateral sentido oposto,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Simples,Reta,Sim
+216,quinta-feira,Transitar na contramão,Saída de leito carroçável,Com Vítimas Feridas,Amanhecer,Decrescente,Céu Claro,Simples,Curva,Não
+217,quinta-feira,Trafegar com motocicleta (ou similar) entre as faixas,Tombamento,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+218,quarta-feira,Velocidade Incompatível,Tombamento,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Dupla,Não Informado,Não
+219,quinta-feira,Transitar na contramão,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Simples,Reta,Sim
+220,sábado,Ausência de reação do condutor,Tombamento,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Dupla,Reta,Sim
+221,sexta-feira,Ausência de reação do condutor,Atropelamento de Pedestre,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Não Informado,Não
+222,sábado,Animais na Pista,Atropelamento de Animal,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Sim
+223,sábado,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Sim
+224,terça-feira,Ausência de reação do condutor,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Não Informado,Sim
+225,domingo,Desrespeitar a preferência no cruzamento,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Interseção de vias,Não
+226,sexta-feira,Ingestão de álcool pelo condutor,Saída de leito carroçável,Sem Vítimas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+227,segunda-feira,Ausência de reação do condutor,Saída de leito carroçável,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Simples,Rotatória,Não
+228,sábado,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Simples,Curva,Não
+229,domingo,Entrada inopinada do pedestre,Atropelamento de Pedestre,Com Vítimas Fatais,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Sim
+230,quinta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Sim
+231,domingo,Avarias e/ou desgaste excessivo no pneu,Colisão com objeto,Sem Vítimas,Pleno dia,Decrescente,Céu Claro,Múltipla,Reta,Sim
+232,quinta-feira,Demais falhas mecânicas ou elétricas,Incêndio,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Não
+233,domingo,Transitar na contramão,Colisão transversal,Com Vítimas Feridas,Plena Noite,Crescente,Chuva,Simples,Reta,Não
+234,terça-feira,Pedestre andava na pista,Atropelamento de Pedestre,Com Vítimas Fatais,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+235,quarta-feira,Entrada inopinada do pedestre,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Múltipla,Reta,Sim
+236,quarta-feira,Trafegar com motocicleta (ou similar) entre as faixas,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Interseção de vias,Sim
+237,domingo,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Sem Vítimas,Pleno dia,Decrescente,Céu Claro,Dupla,Túnel,Sim
+238,sábado,Transitar na contramão,Colisão frontal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Não Informado,Sim
+239,segunda-feira,Pista em desnível,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Desvio Temporário,Não
+240,sexta-feira,Reação tardia ou ineficiente do condutor,Tombamento,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Curva,Não
+241,sábado,Pedestre cruzava a pista fora da faixa,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Não
+242,domingo,Acessar a via sem observar a presença dos outros veículos,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Desvio Temporário,Não
+243,terça-feira,Acumulo de areia ou detritos sobre o pavimento,Capotamento,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Dupla,Não Informado,Sim
+244,quarta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Sim
+245,quinta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Dupla,Reta,Não
+246,segunda-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Não Informado,Não
+247,segunda-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+248,sábado,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Não Informado,Sim
+249,terça-feira,Velocidade Incompatível,Colisão com objeto,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Dupla,Curva,Não
+250,sexta-feira,Ingestão de álcool pelo condutor,Colisão lateral sentido oposto,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Simples,Reta,Não
+251,quarta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão frontal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Não Informado,Sim
+252,sexta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Sim
+253,sexta-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Não
+254,domingo,Acesso irregular,Colisão transversal,Com Vítimas Fatais,Pleno dia,Crescente,Céu Claro,Simples,Não Informado,Sim
+255,quarta-feira,Demais falhas na via,Atropelamento de Pedestre,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+256,sábado,Avarias e/ou desgaste excessivo no pneu,Eventos atípicos,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+257,domingo,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Simples,Curva,Sim
+258,terça-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Anoitecer,Crescente,Céu Claro,Múltipla,Reta,Não
+259,sábado,Reação tardia ou ineficiente do condutor,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Curva,Não
+260,quarta-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Fatais,Plena Noite,Decrescente,Ignorado,Simples,Reta,Não
+261,quarta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Não Informado,Não
+262,sexta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Dupla,Reta,Sim
+263,sábado,Ausência de reação do condutor,Saída de leito carroçável,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Não
+264,sexta-feira,Animais na Pista,Atropelamento de Animal,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Dupla,Não Informado,Não
+265,domingo,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Não
+266,sexta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Múltipla,Curva,Sim
+267,terça-feira,Ausência de reação do condutor,Colisão com objeto,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Não Informado,Não
+268,sábado,Condutor Dormindo,Colisão frontal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+269,domingo,Pedestre andava na pista,Atropelamento de Pedestre,Com Vítimas Fatais,Plena Noite,Decrescente,Nublado,Dupla,Reta,Não
+270,quarta-feira,Condutor usando celular,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+271,terça-feira,Ausência de reação do condutor,Colisão traseira,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Sim
+272,sábado,Ingestão de álcool pelo condutor,Colisão frontal,Com Vítimas Feridas,Anoitecer,Crescente,Chuva,Simples,Desvio Temporário,Não
+273,domingo,Velocidade Incompatível,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Simples,Não Informado,Não
+274,segunda-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Dupla,Reta,Sim
+275,domingo,Pista esburacada,Saída de leito carroçável,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+276,domingo,Condutor Dormindo,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Múltipla,Reta,Não
+277,quarta-feira,Acumulo de areia ou detritos sobre o pavimento,Tombamento,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Viaduto,Sim
+278,quinta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Simples,Interseção de vias,Não
+279,segunda-feira,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Sim
+280,domingo,Entrada inopinada do pedestre,Atropelamento de Pedestre,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+281,quinta-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Dupla,Reta,Sim
+282,segunda-feira,Ausência de reação do condutor,Tombamento,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+283,domingo,Condutor Dormindo,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Não
+284,quarta-feira,Reação tardia ou ineficiente do condutor,Atropelamento de Pedestre,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+285,quinta-feira,Velocidade Incompatível,Colisão traseira,Com Vítimas Feridas,Anoitecer,Crescente,Céu Claro,Dupla,Reta,Sim
+286,quinta-feira,Ausência de reação do condutor,Colisão com objeto,Com Vítimas Feridas,Anoitecer,Decrescente,Céu Claro,Simples,Curva,Sim
+287,quinta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Simples,Curva,Não
+288,sexta-feira,Velocidade Incompatível,Colisão com objeto,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Curva,Não
+289,sexta-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Dupla,Reta,Não
+290,segunda-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Garoa/Chuvisco,Simples,Não Informado,Sim
+291,domingo,Velocidade Incompatível,Colisão com objeto,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Desvio Temporário,Não
+292,quinta-feira,Pista esburacada,Colisão lateral sentido oposto,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+293,terça-feira,Acesso irregular,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+294,sexta-feira,Ingestão de álcool pelo condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Dupla,Não Informado,Sim
+295,quinta-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Garoa/Chuvisco,Simples,Reta,Sim
+296,domingo,Velocidade Incompatível,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Curva,Não
+297,segunda-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Anoitecer,Decrescente,Nublado,Dupla,Reta,Não
+298,domingo,Conversão proibida,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+299,domingo,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Dupla,Reta,Não
+300,terça-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Dupla,Reta,Sim
+301,quarta-feira,Carga excessiva e/ou mal acondicionada,Colisão com objeto,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Simples,Reta,Não
+302,domingo,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Reta,Não
+303,segunda-feira,Acessar a via sem observar a presença dos outros veículos,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Múltipla,Interseção de vias,Sim
+304,domingo,Acessar a via sem observar a presença dos outros veículos,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Dupla,Reta,Sim
+305,terça-feira,Condutor Dormindo,Colisão com objeto,Sem Vítimas,Pleno dia,Decrescente,Céu Claro,Dupla,Curva,Não
+306,domingo,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Interseção de vias,Sim
+307,segunda-feira,Acessar a via sem observar a presença dos outros veículos,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Interseção de vias,Sim
+308,sexta-feira,Acostamento em desnível,Tombamento,Sem Vítimas,Anoitecer,Decrescente,Céu Claro,Simples,Desvio Temporário,Não
+309,quinta-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Dupla,Não Informado,Sim
+310,segunda-feira,Transitar na contramão,Colisão lateral sentido oposto,Sem Vítimas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Sim
+311,sexta-feira,Ultrapassagem Indevida,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+312,segunda-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+313,sexta-feira,Demais falhas mecânicas ou elétricas,Incêndio,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Múltipla,Reta,Sim
+314,sábado,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Curva,Não
+315,segunda-feira,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Não Informado,Não
+316,domingo,Condutor Dormindo,Saída de leito carroçável,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Dupla,Curva,Sim
+317,sábado,Transitar na contramão,Colisão frontal,Com Vítimas Fatais,Pleno dia,Crescente,Nublado,Simples,Curva,Não
+318,segunda-feira,Reação tardia ou ineficiente do condutor,Colisão com objeto,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+319,quinta-feira,Ausência de reação do condutor,Colisão frontal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+320,sexta-feira,Trafegar com motocicleta (ou similar) entre as faixas,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Múltipla,Viaduto,Sim
+321,sexta-feira,Velocidade Incompatível,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Crescente,Chuva,Simples,Reta,Não
+322,quinta-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Fatais,Anoitecer,Decrescente,Ignorado,Dupla,Desvio Temporário,Não
+323,sexta-feira,Ausência de reação do condutor,Colisão transversal,Sem Vítimas,Plena Noite,Crescente,Nublado,Simples,Interseção de vias,Não
+324,quarta-feira,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Sim
+325,sexta-feira,Reação tardia ou ineficiente do condutor,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Desvio Temporário,Não
+326,sábado,Demais falhas mecânicas ou elétricas,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+327,segunda-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Anoitecer,Decrescente,Céu Claro,Simples,Não Informado,Sim
+328,quarta-feira,Demais falhas mecânicas ou elétricas,Incêndio,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Sim
+329,quinta-feira,Reação tardia ou ineficiente do condutor,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Não
+330,sexta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Sem Vítimas,Pleno dia,Crescente,Chuva,Múltipla,Interseção de vias,Sim
+331,sexta-feira,Condutor deixou de manter distância do veículo da frente,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Dupla,Reta,Não
+332,sábado,Pedestre cruzava a pista fora da faixa,Atropelamento de Pedestre,Com Vítimas Fatais,Plena Noite,Crescente,Nublado,Dupla,Não Informado,Sim
+333,sexta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Simples,Interseção de vias,Sim
+334,terça-feira,Entrada inopinada do pedestre,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+335,terça-feira,Animais na Pista,Atropelamento de Animal,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+336,quinta-feira,Transitar na contramão,Colisão lateral sentido oposto,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Simples,Não Informado,Não
+337,domingo,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Amanhecer,Crescente,Céu Claro,Simples,Reta,Não
+338,quarta-feira,Condutor deixou de manter distância do veículo da frente,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Crescente,Garoa/Chuvisco,Dupla,Não Informado,Sim
+339,domingo,Condutor deixou de manter distância do veículo da frente,Engavetamento,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+340,sexta-feira,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Sim
+341,quarta-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+342,sábado,Ingestão de álcool pelo condutor,Saída de leito carroçável,Com Vítimas Fatais,Plena Noite,Decrescente,Nublado,Simples,Curva,Não
+343,sexta-feira,Conversão proibida,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Simples,Reta,Sim
+344,domingo,Condutor Dormindo,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+345,sexta-feira,Trafegar com motocicleta (ou similar) entre as faixas,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Múltipla,Reta,Sim
+346,terça-feira,Ausência de reação do condutor,Colisão traseira,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Não
+347,sábado,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Fatais,Plena Noite,Não Informado,Chuva,Dupla,Não Informado,Sim
+348,sexta-feira,Ausência de reação do condutor,Queda de ocupante de veículo,Com Vítimas Feridas,Amanhecer,Crescente,Céu Claro,Dupla,Reta,Sim
+349,quarta-feira,Conversão proibida,Colisão transversal,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Simples,Reta,Não
+350,terça-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Simples,Não Informado,Não
+351,terça-feira,Pedestre andava na pista,Atropelamento de Pedestre,Com Vítimas Fatais,Anoitecer,Decrescente,Céu Claro,Dupla,Interseção de vias,Sim
+352,quarta-feira,Pedestre andava na pista,Atropelamento de Pedestre,Com Vítimas Fatais,Plena Noite,Crescente,Nublado,Simples,Desvio Temporário,Não
+353,sábado,Manobra de mudança de faixa,Queda de ocupante de veículo,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Não
+354,quinta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Rotatória,Não
+355,domingo,Condutor Dormindo,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Múltipla,Reta,Sim
+356,domingo,Reação tardia ou ineficiente do condutor,Colisão com objeto,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Múltipla,Reta,Sim
+357,sábado,Ausência de reação do condutor,Saída de leito carroçável,Sem Vítimas,Plena Noite,Decrescente,Nevoeiro/Neblina,Simples,Curva,Não
+358,segunda-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Sim
+359,sexta-feira,Condutor Dormindo,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Chuva,Dupla,Reta,Não
+360,quarta-feira,Reação tardia ou ineficiente do condutor,Colisão frontal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Sim
+361,segunda-feira,Pedestre cruzava a pista fora da faixa,Atropelamento de Pedestre,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Sim
+362,domingo,Pedestre andava na pista,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+363,sexta-feira,Ausência de reação do condutor,Colisão lateral sentido oposto,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+364,quarta-feira,Velocidade Incompatível,Colisão frontal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Curva,Não
+365,domingo,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Amanhecer,Crescente,Céu Claro,Dupla,Reta,Sim
+366,quinta-feira,Ultrapassagem Indevida,Colisão frontal,Com Vítimas Fatais,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+367,sábado,Ausência de reação do condutor,Colisão traseira,Sem Vítimas,Anoitecer,Crescente,Céu Claro,Dupla,Reta,Sim
+368,quinta-feira,Manobra de mudança de faixa,Colisão com objeto,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Dupla,Curva,Sim
+369,segunda-feira,Pedestre cruzava a pista fora da faixa,Atropelamento de Pedestre,Com Vítimas Feridas,Pleno dia,Decrescente,Garoa/Chuvisco,Simples,Reta,Sim
+370,terça-feira,Acessar a via sem observar a presença dos outros veículos,Colisão traseira,Com Vítimas Feridas,Anoitecer,Decrescente,Chuva,Dupla,Não Informado,Sim
+371,quinta-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Dupla,Não Informado,Sim
+372,terça-feira,Transitar na contramão,Colisão frontal,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Simples,Não Informado,Sim
+373,quinta-feira,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Curva,Não
+374,terça-feira,Acumulo de água sobre o pavimento,Colisão com objeto,Com Vítimas Feridas,Pleno dia,Decrescente,Chuva,Dupla,Curva,Sim
+375,sábado,Animais na Pista,Atropelamento de Animal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+376,quarta-feira,Ingestão de álcool ou de substâncias psicoativas pelo pedestre,Atropelamento de Pedestre,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Sim
+377,quinta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Múltipla,Reta,Sim
+378,segunda-feira,Pedestre cruzava a pista fora da faixa,Atropelamento de Pedestre,Com Vítimas Feridas,Anoitecer,Crescente,Céu Claro,Dupla,Reta,Não
+379,quinta-feira,Condutor Dormindo,Colisão com objeto,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Simples,Reta,Não
+380,quarta-feira,Manobra de mudança de faixa,Colisão traseira,Com Vítimas Fatais,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+381,sábado,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Garoa/Chuvisco,Múltipla,Reta,Sim
+382,quinta-feira,Velocidade Incompatível,Atropelamento de Animal,Com Vítimas Feridas,Amanhecer,Decrescente,Céu Claro,Simples,Reta,Não
+383,quinta-feira,Condutor deixou de manter distância do veículo da frente,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Não
+384,terça-feira,Condutor desrespeitou a iluminação vermelha do semáforo,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+385,segunda-feira,Animais na Pista,Atropelamento de Animal,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Sim
+386,sexta-feira,Ingestão de álcool pelo condutor,Colisão frontal,Com Vítimas Feridas,Plena Noite,Decrescente,Garoa/Chuvisco,Simples,Reta,Sim
+387,sexta-feira,Desrespeitar a preferência no cruzamento,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Sim
+388,quarta-feira,Obstrução na via,Saída de leito carroçável,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Dupla,Não Informado,Não
+389,quinta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Plena Noite,Crescente,Chuva,Simples,Reta,Sim
+390,domingo,Velocidade Incompatível,Colisão traseira,Com Vítimas Fatais,Plena Noite,Decrescente,Nublado,Dupla,Reta,Sim
+391,domingo,Reação tardia ou ineficiente do condutor,Colisão lateral mesmo sentido,Sem Vítimas,Anoitecer,Crescente,Céu Claro,Múltipla,Reta,Não
+392,sábado,Transitar na contramão,Colisão lateral sentido oposto,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Simples,Reta,Não
+393,sexta-feira,Curva acentuada,Saída de leito carroçável,Sem Vítimas,Amanhecer,Decrescente,Chuva,Simples,Curva,Não
+394,sexta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Anoitecer,Crescente,Céu Claro,Dupla,Reta,Sim
+395,terça-feira,Transitar na contramão,Colisão lateral sentido oposto,Com Vítimas Fatais,Plena Noite,Crescente,Chuva,Simples,Reta,Sim
+396,domingo,Ingestão de álcool e/ou substâncias psicoativas pelo pedestre,Colisão traseira,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Sim
+397,quinta-feira,Reação tardia ou ineficiente do condutor,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Dupla,Curva,Sim
+398,domingo,Demais falhas mecânicas ou elétricas,Incêndio,Sem Vítimas,Pleno dia,Decrescente,Chuva,Dupla,Curva,Não
+399,domingo,Ausência de reação do condutor,Colisão com objeto,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Dupla,Reta,Sim
+400,terça-feira,Condutor Dormindo,Colisão com objeto,Com Vítimas Feridas,Amanhecer,Crescente,Céu Claro,Dupla,Reta,Não
+401,quinta-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+402,sexta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Simples,Rotatória,Sim
+403,domingo,Animais na Pista,Atropelamento de Animal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+404,terça-feira,Transitar na contramão,Colisão frontal,Com Vítimas Fatais,Pleno dia,Crescente,Sol,Simples,Reta,Não
+405,segunda-feira,Reação tardia ou ineficiente do condutor,Colisão lateral mesmo sentido,Com Vítimas Feridas,Plena Noite,Crescente,Garoa/Chuvisco,Múltipla,Reta,Sim
+406,sexta-feira,Semáforo com defeito,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Interseção de vias,Sim
+407,quinta-feira,Ausência de reação do condutor,Tombamento,Com Vítimas Feridas,Plena Noite,Crescente,Garoa/Chuvisco,Dupla,Reta,Sim
+408,sábado,Pedestre andava na pista,Atropelamento de Pedestre,Com Vítimas Fatais,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+409,sexta-feira,Acumulo de água sobre o pavimento,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Dupla,Não Informado,Sim
+410,domingo,Reação tardia ou ineficiente do condutor,Colisão com objeto,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Rotatória,Sim
+411,domingo,Ingestão de álcool pelo condutor,Capotamento,Com Vítimas Feridas,Amanhecer,Decrescente,Céu Claro,Simples,Curva,Sim
+412,quarta-feira,Acumulo de água sobre o pavimento,Saída de leito carroçável,Com Vítimas Feridas,Anoitecer,Decrescente,Chuva,Dupla,Reta,Não
+413,segunda-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Sim
+414,segunda-feira,Entrada inopinada do pedestre,Atropelamento de Pedestre,Com Vítimas Fatais,Plena Noite,Decrescente,Nevoeiro/Neblina,Simples,Reta,Não
+415,segunda-feira,Ultrapassagem Indevida,Colisão frontal,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Sim
+416,sexta-feira,Ultrapassagem Indevida,Colisão frontal,Com Vítimas Fatais,Pleno dia,Crescente,Céu Claro,Simples,Não Informado,Não
+417,quinta-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Sem Vítimas,Plena Noite,Decrescente,Chuva,Dupla,Reta,Sim
+418,segunda-feira,Ultrapassagem Indevida,Colisão frontal,Com Vítimas Fatais,Pleno dia,Decrescente,Céu Claro,Simples,Desvio Temporário,Não
+419,quarta-feira,Demais falhas mecânicas ou elétricas,Incêndio,Sem Vítimas,Plena Noite,Decrescente,Nublado,Simples,Reta,Não
+420,segunda-feira,Desrespeitar a preferência no cruzamento,Colisão transversal,Sem Vítimas,Pleno dia,Crescente,Nublado,Simples,Interseção de vias,Sim
+421,domingo,Ingestão de álcool pelo condutor,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Não Informado,Não
+422,sexta-feira,Avarias e/ou desgaste excessivo no pneu,Tombamento,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Múltipla,Reta,Sim
+423,domingo,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Curva,Não
+424,sexta-feira,Condutor Dormindo,Colisão lateral sentido oposto,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+425,terça-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+426,domingo,Velocidade Incompatível,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Chuva,Dupla,Curva,Não
+427,sábado,Animais na Pista,Atropelamento de Animal,Com Vítimas Fatais,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+428,segunda-feira,Ingestão de álcool pelo condutor,Colisão lateral sentido oposto,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+429,terça-feira,Demais falhas mecânicas ou elétricas,Incêndio,Sem Vítimas,Plena Noite,Crescente,Nublado,Dupla,Reta,Não
+430,terça-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+431,quarta-feira,Reação tardia ou ineficiente do condutor,Capotamento,Com Vítimas Feridas,Plena Noite,Crescente,Chuva,Múltipla,Curva,Sim
+432,segunda-feira,Pedestre andava na pista,Atropelamento de Pedestre,Com Vítimas Feridas,Amanhecer,Crescente,Céu Claro,Simples,Reta,Sim
+433,sexta-feira,Avarias e/ou desgaste excessivo no pneu,Colisão lateral mesmo sentido,Com Vítimas Feridas,Anoitecer,Crescente,Garoa/Chuvisco,Simples,Curva,Não
+434,sexta-feira,Condutor desrespeitou a iluminação vermelha do semáforo,Colisão transversal,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Múltipla,Reta,Sim
+435,sábado,Ingestão de álcool pelo condutor,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Crescente,Garoa/Chuvisco,Múltipla,Desvio Temporário,Sim
+436,sábado,Transitar na contramão,Colisão frontal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Curva,Não
+437,segunda-feira,Ingestão de álcool pelo condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Simples,Reta,Não
+438,sábado,Conversão proibida,Colisão transversal,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Sim
+439,terça-feira,Pista esburacada,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Simples,Curva,Não
+440,quarta-feira,Demais falhas mecânicas ou elétricas,Tombamento,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Múltipla,Reta,Sim
+441,quinta-feira,Acostamento em desnível,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+442,quarta-feira,Condutor Dormindo,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Múltipla,Reta,Sim
+443,quarta-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Fatais,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+444,sexta-feira,Ingestão de álcool pelo condutor,Engavetamento,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Não Informado,Não
+445,segunda-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Amanhecer,Crescente,Nublado,Dupla,Reta,Não
+446,quinta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Plena Noite,Decrescente,Nevoeiro/Neblina,Simples,Desvio Temporário,Não
+447,domingo,Condutor Dormindo,Colisão traseira,Com Vítimas Feridas,Amanhecer,Decrescente,Céu Claro,Dupla,Não Informado,Sim
+448,domingo,Retorno proibido,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Desvio Temporário,Não
+449,sexta-feira,Ultrapassagem Indevida,Colisão frontal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Desvio Temporário,Não
+450,domingo,Condutor Dormindo,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Curva,Não
+451,terça-feira,Transitar na contramão,Colisão frontal,Com Vítimas Fatais,Pleno dia,Crescente,Nublado,Simples,Reta,Não
+452,quarta-feira,Conversão proibida,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Curva,Não
+453,sexta-feira,Condutor desrespeitou a iluminação vermelha do semáforo,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Interseção de vias,Sim
+454,segunda-feira,Condutor Dormindo,Saída de leito carroçável,Com Vítimas Feridas,Amanhecer,Crescente,Céu Claro,Dupla,Reta,Não
+455,terça-feira,Ausência de reação do condutor,Tombamento,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+456,terça-feira,Ausência de reação do condutor,Saída de leito carroçável,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+457,segunda-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+458,sexta-feira,Ingestão de álcool pelo condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Sim
+459,quinta-feira,Demais falhas mecânicas ou elétricas,Incêndio,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Sim
+460,domingo,Transitar na contramão,Colisão frontal,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Simples,Viaduto,Sim
+461,segunda-feira,Reação tardia ou ineficiente do condutor,Colisão transversal,Com Vítimas Fatais,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+462,quarta-feira,Ultrapassagem Indevida,Colisão frontal,Com Vítimas Feridas,Plena Noite,Decrescente,Chuva,Simples,Reta,Não
+463,sábado,Ausência de reação do condutor,Colisão traseira,Sem Vítimas,Pleno dia,Decrescente,Sol,Dupla,Interseção de vias,Não
+464,segunda-feira,Acessar a via sem observar a presença dos outros veículos,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Não
+465,domingo,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Não
+466,domingo,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+467,quinta-feira,Ausência de sinalização,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+468,sábado,Entrada inopinada do pedestre,Atropelamento de Pedestre,Com Vítimas Fatais,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Sim
+469,domingo,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Crescente,Garoa/Chuvisco,Simples,Reta,Sim
+470,quarta-feira,Demais falhas mecânicas ou elétricas,Saída de leito carroçável,Sem Vítimas,Pleno dia,Crescente,Garoa/Chuvisco,Dupla,Reta,Sim
+471,sexta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Não
+472,sábado,Acesso irregular,Colisão frontal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Curva,Sim
+473,terça-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Sem Vítimas,Plena Noite,Crescente,Garoa/Chuvisco,Simples,Desvio Temporário,Não
+474,terça-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Sem Vítimas,Plena Noite,Decrescente,Nublado,Simples,Rotatória,Sim
+475,segunda-feira,Ausência de reação do condutor,Colisão com objeto,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Múltipla,Curva,Sim
+476,quarta-feira,Ausência de reação do condutor,Colisão traseira,Sem Vítimas,Anoitecer,Decrescente,Céu Claro,Dupla,Reta,Sim
+477,domingo,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Fatais,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+478,domingo,Ausência de reação do condutor,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Sim
+479,sexta-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Múltipla,Reta,Sim
+480,sábado,Condutor Dormindo,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Decrescente,Chuva,Simples,Curva,Não
+481,terça-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Múltipla,Não Informado,Sim
+482,domingo,Ausência de reação do condutor,Colisão frontal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Múltipla,Reta,Sim
+483,sexta-feira,Demais falhas mecânicas ou elétricas,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+484,domingo,Objeto estático sobre o leito carroçável,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Crescente,Garoa/Chuvisco,Simples,Não Informado,Não
+485,sábado,Animais na Pista,Atropelamento de Animal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Não
+486,sexta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+487,domingo,Ausência de reação do condutor,Colisão transversal,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Múltipla,Reta,Sim
+488,sábado,Trafegar com motocicleta (ou similar) entre as faixas,Colisão lateral mesmo sentido,Com Vítimas Feridas,Anoitecer,Crescente,Nublado,Múltipla,Não Informado,Não
+489,domingo,Pedestre cruzava a pista fora da faixa,Atropelamento de Pedestre,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Curva,Sim
+490,sexta-feira,Reação tardia ou ineficiente do condutor,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Não Informado,Sim
+491,quinta-feira,Reação tardia ou ineficiente do condutor,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Decrescente,Garoa/Chuvisco,Dupla,Desvio Temporário,Não
+492,domingo,Transitar na contramão,Atropelamento de Pedestre,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Dupla,Reta,Sim
+493,quarta-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Ponte,Não
+494,domingo,Curva acentuada,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Curva,Não
+495,segunda-feira,Avarias e/ou desgaste excessivo no pneu,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Simples,Reta,Sim
+496,sábado,Ausência de reação do condutor,Colisão com objeto,Com Vítimas Feridas,Plena Noite,Decrescente,Ignorado,Dupla,Curva,Não
+497,sexta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Amanhecer,Decrescente,Nublado,Dupla,Não Informado,Sim
+498,sexta-feira,Pista Escorregadia,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Não
+499,sexta-feira,Reação tardia ou ineficiente do condutor,Queda de ocupante de veículo,Com Vítimas Feridas,Anoitecer,Crescente,Garoa/Chuvisco,Simples,Reta,Não
+500,segunda-feira,Ingestão de álcool pelo condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Dupla,Reta,Não
+501,domingo,Ingestão de álcool ou de substâncias psicoativas pelo pedestre,Tombamento,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Simples,Reta,Não
+502,segunda-feira,Reação tardia ou ineficiente do condutor,Tombamento,Com Vítimas Feridas,Anoitecer,Crescente,Céu Claro,Simples,Reta,Sim
+503,domingo,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Sem Vítimas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+504,quarta-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Múltipla,Curva,Não
+505,domingo,Reação tardia ou ineficiente do condutor,Colisão com objeto,Sem Vítimas,Plena Noite,Decrescente,Nublado,Dupla,Desvio Temporário,Não
+506,terça-feira,Desrespeitar a preferência no cruzamento,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Rotatória,Sim
+507,quinta-feira,Avarias e/ou desgaste excessivo no pneu,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+508,sexta-feira,Velocidade Incompatível,Colisão traseira,Com Vítimas Fatais,Amanhecer,Crescente,Céu Claro,Simples,Reta,Não
+509,sábado,Acesso irregular,Colisão traseira,Sem Vítimas,Pleno dia,Decrescente,Céu Claro,Dupla,Não Informado,Sim
+510,sexta-feira,Velocidade Incompatível,Colisão com objeto,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+511,quarta-feira,Velocidade Incompatível,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Garoa/Chuvisco,Dupla,Não Informado,Não
+512,quinta-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Simples,Reta,Sim
+513,quinta-feira,Manobra de mudança de faixa,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Não Informado,Sim
+514,segunda-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Amanhecer,Crescente,Céu Claro,Simples,Viaduto,Sim
+515,terça-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Simples,Reta,Sim
+516,quarta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Fatais,Plena Noite,Crescente,Céu Claro,Simples,Reta,Sim
+517,segunda-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Simples,Não Informado,Sim
+518,quarta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+519,domingo,Pedestre cruzava a pista fora da faixa,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Dupla,Não Informado,Não
+520,terça-feira,Demais falhas mecânicas ou elétricas,Incêndio,Sem Vítimas,Pleno dia,Decrescente,Céu Claro,Dupla,Curva,Não
+521,domingo,Transitar no acostamento,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Múltipla,Reta,Sim
+522,sexta-feira,Velocidade Incompatível,Colisão com objeto,Com Vítimas Fatais,Pleno dia,Crescente,Céu Claro,Simples,Interseção de vias,Não
+523,sábado,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Múltipla,Reta,Sim
+524,sábado,Ultrapassagem Indevida,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+525,segunda-feira,Velocidade Incompatível,Colisão com objeto,Sem Vítimas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Não
+526,quinta-feira,Velocidade Incompatível,Colisão com objeto,Sem Vítimas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+527,domingo,Ingestão de álcool pelo condutor,Saída de leito carroçável,Com Vítimas Feridas,Amanhecer,Decrescente,Céu Claro,Dupla,Reta,Sim
+528,sábado,Demais falhas mecânicas ou elétricas,Incêndio,Sem Vítimas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+529,segunda-feira,Estacionar ou parar em local proibido,Colisão traseira,Sem Vítimas,Plena Noite,Crescente,Nublado,Dupla,Reta,Não
+530,sexta-feira,Ingestão de álcool pelo condutor,Colisão com objeto,Sem Vítimas,Plena Noite,Decrescente,Nublado,Simples,Curva,Sim
+531,quarta-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Simples,Reta,Sim
+532,segunda-feira,Pedestre cruzava a pista fora da faixa,Atropelamento de Pedestre,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+533,sábado,Reação tardia ou ineficiente do condutor,Colisão lateral sentido oposto,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+534,segunda-feira,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Dupla,Reta,Não
+535,terça-feira,Transitar na contramão,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Curva,Não
+536,quinta-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Garoa/Chuvisco,Dupla,Reta,Não
+537,domingo,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+538,sábado,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Não Informado,Sim
+539,terça-feira,Acessar a via sem observar a presença dos outros veículos,Colisão frontal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Curva,Não
+540,terça-feira,Acessar a via sem observar a presença dos outros veículos,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+541,sábado,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Sim
+542,sexta-feira,Ausência de reação do condutor,Saída de leito carroçável,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Simples,Curva,Não
+543,segunda-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Não
+544,sexta-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Múltipla,Reta,Sim
+545,quinta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+546,domingo,Reação tardia ou ineficiente do condutor,Colisão com objeto,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+547,quinta-feira,Demais falhas na via,Queda de ocupante de veículo,Com Vítimas Feridas,Plena Noite,Crescente,Chuva,Dupla,Reta,Sim
+548,segunda-feira,Acumulo de água sobre o pavimento,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Chuva,Simples,Reta,Não
+549,segunda-feira,Manobra de mudança de faixa,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Chuva,Dupla,Reta,Sim
+550,quarta-feira,Curva acentuada,Saída de leito carroçável,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Dupla,Curva,Não
+551,sábado,Demais falhas mecânicas ou elétricas,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Dupla,Reta,Sim
+552,sexta-feira,Ingestão de álcool pelo condutor,Colisão lateral sentido oposto,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Simples,Curva,Sim
+553,quarta-feira,Pista esburacada,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Simples,Reta,Sim
+554,domingo,Manobra de mudança de faixa,Colisão transversal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Sim
+555,segunda-feira,Desrespeitar a preferência no cruzamento,Colisão transversal,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Não Informado,Não
+556,quarta-feira,Transitar na contramão,Colisão frontal,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Interseção de vias,Sim
+557,sábado,Condutor Dormindo,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Não
+558,domingo,Ultrapassagem Indevida,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Dupla,Reta,Não
+559,sábado,Ausência de reação do condutor,Tombamento,Com Vítimas Feridas,Anoitecer,Crescente,Garoa/Chuvisco,Múltipla,Reta,Sim
+560,sábado,Velocidade Incompatível,Colisão frontal,Com Vítimas Fatais,Pleno dia,Decrescente,Chuva,Simples,Não Informado,Não
+561,terça-feira,Velocidade Incompatível,Capotamento,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Dupla,Curva,Não
+562,domingo,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+563,quinta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão traseira,Sem Vítimas,Pleno dia,Decrescente,Céu Claro,Dupla,Rotatória,Sim
+564,terça-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+565,sexta-feira,Conversão proibida,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Dupla,Retorno Regulamentado,Não
+566,sexta-feira,Condutor deixou de manter distância do veículo da frente,Colisão lateral mesmo sentido,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+567,sábado,Acumulo de água sobre o pavimento,Colisão lateral mesmo sentido,Com Vítimas Fatais,Pleno dia,Crescente,Chuva,Dupla,Reta,Não
+568,segunda-feira,Velocidade Incompatível,Colisão com objeto,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Não
+569,quarta-feira,Ingestão de substâncias psicoativas pelo condutor,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Sim
+570,quinta-feira,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Reta,Não
+571,terça-feira,Demais falhas mecânicas ou elétricas,Eventos atípicos,Com Vítimas Feridas,Plena Noite,Crescente,Chuva,Dupla,Reta,Não
+572,quarta-feira,Acumulo de água sobre o pavimento,Colisão traseira,Sem Vítimas,Pleno dia,Decrescente,Chuva,Dupla,Não Informado,Não
+573,terça-feira,Demais falhas na via,Colisão lateral sentido oposto,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Curva,Não
+574,quarta-feira,Mal súbito do condutor,Colisão lateral sentido oposto,Com Vítimas Fatais,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+575,quarta-feira,Acesso irregular,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Não Informado,Sim
+576,sexta-feira,Avarias e/ou desgaste excessivo no pneu,Queda de ocupante de veículo,Com Vítimas Feridas,Amanhecer,Crescente,Nublado,Dupla,Reta,Sim
+577,sábado,Ingestão de álcool pelo condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+578,segunda-feira,Ingestão de álcool ou de substâncias psicoativas pelo pedestre,Colisão transversal,Sem Vítimas,Plena Noite,Crescente,Nublado,Simples,Reta,Não
+579,sábado,Trafegar com motocicleta (ou similar) entre as faixas,Tombamento,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Curva,Não
+580,domingo,Velocidade Incompatível,Saída de leito carroçável,Com Vítimas Feridas,Anoitecer,Decrescente,Céu Claro,Dupla,Curva,Não
+581,terça-feira,Frear bruscamente,Engavetamento,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+582,quarta-feira,Velocidade Incompatível,Tombamento,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Não
+583,sábado,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Sim
+584,sábado,Acessar a via sem observar a presença dos outros veículos,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Múltipla,Interseção de vias,Sim
+585,sexta-feira,Demais falhas mecânicas ou elétricas,Atropelamento de Pedestre,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Reta,Não
+586,segunda-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Múltipla,Desvio Temporário,Sim
+587,segunda-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Anoitecer,Crescente,Céu Claro,Simples,Interseção de vias,Sim
+588,terça-feira,Acessar a via sem observar a presença dos outros veículos,Colisão lateral mesmo sentido,Com Vítimas Feridas,Anoitecer,Crescente,Chuva,Dupla,Interseção de vias,Sim
+589,domingo,Ingestão de álcool pelo condutor,Colisão lateral mesmo sentido,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Retorno Regulamentado,Não
+590,domingo,Animais na Pista,Saída de leito carroçável,Com Vítimas Fatais,Plena Noite,Decrescente,Nublado,Simples,Reta,Sim
+591,segunda-feira,Ingestão de álcool pelo condutor,Colisão lateral sentido oposto,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Não
+592,sexta-feira,Iluminação deficiente,Colisão lateral mesmo sentido,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+593,terça-feira,Condutor deixou de manter distância do veículo da frente,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+594,sábado,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Interseção de vias,Não
+595,domingo,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Múltipla,Não Informado,Sim
+596,sexta-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+597,segunda-feira,Ausência de reação do condutor,Queda de ocupante de veículo,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+598,segunda-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Dupla,Reta,Sim
+599,sexta-feira,Pedestre andava na pista,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Não Informado,Sim
+600,sábado,Velocidade Incompatível,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Curva,Não
+601,sábado,Ingestão de álcool pelo condutor,Colisão com objeto,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Curva,Sim
+602,sexta-feira,Frear bruscamente,Colisão traseira,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Sim
+603,sexta-feira,Trafegar com motocicleta (ou similar) entre as faixas,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Não Informado,Sim
+604,quarta-feira,Acesso irregular,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+605,domingo,Ausência de reação do condutor,Colisão frontal,Sem Vítimas,Pleno dia,Decrescente,Sol,Simples,Reta,Não
+606,sexta-feira,Entrada inopinada do pedestre,Atropelamento de Pedestre,Com Vítimas Fatais,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+607,segunda-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Anoitecer,Decrescente,Chuva,Simples,Interseção de vias,Não
+608,terça-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+609,quinta-feira,Pista esburacada,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Rotatória,Não
+610,sexta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Simples,Interseção de vias,Sim
+611,sexta-feira,Ingestão de álcool pelo condutor,Colisão com objeto,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Curva,Sim
+612,terça-feira,Ultrapassagem Indevida,Saída de leito carroçável,Com Vítimas Feridas,Anoitecer,Decrescente,Céu Claro,Simples,Reta,Não
+613,segunda-feira,Trafegar com motocicleta (ou similar) entre as faixas,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Dupla,Reta,Sim
+614,segunda-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Sim
+615,quinta-feira,Condutor desrespeitou a iluminação vermelha do semáforo,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Dupla,Interseção de vias,Sim
+616,sexta-feira,Velocidade Incompatível,Colisão transversal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Sim
+617,sexta-feira,Ultrapassagem Indevida,Colisão lateral mesmo sentido,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Curva,Sim
+618,sábado,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Anoitecer,Crescente,Céu Claro,Dupla,Reta,Sim
+619,segunda-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Reta,Sim
+620,segunda-feira,Velocidade Incompatível,Saída de leito carroçável,Sem Vítimas,Pleno dia,Crescente,Chuva,Simples,Curva,Não
+621,domingo,Acessar a via sem observar a presença dos outros veículos,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Chuva,Dupla,Reta,Sim
+622,terça-feira,Ausência de reação do condutor,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+623,sábado,Frear bruscamente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Não
+624,sábado,Ausência de reação do condutor,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Reta,Sim
+625,sexta-feira,Acesso irregular,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+626,terça-feira,Acumulo de óleo sobre o pavimento,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+627,domingo,Velocidade Incompatível,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Dupla,Curva,Não
+628,terça-feira,Mal súbito do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+629,domingo,Pedestre cruzava a pista fora da faixa,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+630,domingo,Reação tardia ou ineficiente do condutor,Colisão com objeto,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Dupla,Curva,Não
+631,quarta-feira,Transitar na contramão,Colisão frontal,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Simples,Curva,Não
+632,quarta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+633,quinta-feira,Deficiência do Sistema de Iluminação/Sinalização,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Desvio Temporário,Não
+634,sexta-feira,Condutor Dormindo,Tombamento,Sem Vítimas,Plena Noite,Crescente,Nublado,Múltipla,Reta,Sim
+635,segunda-feira,Condutor Dormindo,Colisão frontal,Com Vítimas Fatais,Pleno dia,Crescente,Nublado,Simples,Ponte,Não
+636,sexta-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Não Informado,Não
+637,domingo,Ingestão de álcool pelo condutor,Colisão transversal,Sem Vítimas,Amanhecer,Crescente,Nublado,Dupla,Não Informado,Não
+638,quarta-feira,Conversão proibida,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Sim
+639,sábado,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Sem Vítimas,Plena Noite,Decrescente,Chuva,Simples,Curva,Não
+640,sexta-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Simples,Não Informado,Não
+641,sábado,Ingestão de álcool pelo condutor,Colisão lateral sentido oposto,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Sim
+642,quarta-feira,Acumulo de areia ou detritos sobre o pavimento,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Não Informado,Não
+643,quinta-feira,Pedestre andava na pista,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Simples,Reta,Não
+644,sábado,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Simples,Reta,Sim
+645,domingo,Conversão proibida,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+646,domingo,Ausência de reação do condutor,Colisão com objeto,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Sim
+647,quarta-feira,Manobra de mudança de faixa,Queda de ocupante de veículo,Com Vítimas Feridas,Anoitecer,Crescente,Céu Claro,Dupla,Reta,Não
+648,sexta-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Plena Noite,Decrescente,Garoa/Chuvisco,Múltipla,Reta,Sim
+649,quarta-feira,Frear bruscamente,Engavetamento,Sem Vítimas,Pleno dia,Decrescente,Céu Claro,Dupla,Não Informado,Sim
+650,terça-feira,Acessar a via sem observar a presença dos outros veículos,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Dupla,Reta,Sim
+651,quarta-feira,Velocidade Incompatível,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+652,quinta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+653,segunda-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Não
+654,terça-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+655,sexta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão lateral mesmo sentido,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Sim
+656,terça-feira,Demais falhas mecânicas ou elétricas,Tombamento,Sem Vítimas,Pleno dia,Decrescente,Sol,Simples,Não Informado,Não
+657,quarta-feira,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Dupla,Curva,Não
+658,terça-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Sim
+659,domingo,Condutor Dormindo,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Sim
+660,terça-feira,Condutor Dormindo,Saída de leito carroçável,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Não
+661,domingo,Ausência de reação do condutor,Queda de ocupante de veículo,Com Vítimas Feridas,Amanhecer,Decrescente,Céu Claro,Simples,Reta,Não
+662,quarta-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Sim
+663,terça-feira,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Simples,Reta,Não
+664,quarta-feira,Avarias e/ou desgaste excessivo no pneu,Tombamento,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Dupla,Reta,Não
+665,domingo,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+666,domingo,Pista esburacada,Colisão frontal,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Simples,Reta,Não
+667,terça-feira,Manobra de mudança de faixa,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Curva,Sim
+668,domingo,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Não
+669,quinta-feira,Reação tardia ou ineficiente do condutor,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Curva,Não
+670,domingo,Manobra de mudança de faixa,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Dupla,Reta,Sim
+671,domingo,Condutor deixou de manter distância do veículo da frente,Engavetamento,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+672,terça-feira,Carga excessiva e/ou mal acondicionada,Saída de leito carroçável,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Simples,Não Informado,Não
+673,quarta-feira,Obras na pista,Colisão lateral mesmo sentido,Sem Vítimas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Não
+674,quarta-feira,Reação tardia ou ineficiente do condutor,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Ignorado,Dupla,Não Informado,Não
+675,sexta-feira,Velocidade Incompatível,Tombamento,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Dupla,Reta,Não
+676,terça-feira,Velocidade Incompatível,Colisão lateral mesmo sentido,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+677,sábado,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Não Informado,Sim
+678,segunda-feira,Reação tardia ou ineficiente do condutor,Colisão com objeto,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Múltipla,Reta,Sim
+679,sexta-feira,Carga excessiva e/ou mal acondicionada,Derramamento de carga,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Simples,Não Informado,Não
+680,domingo,Reação tardia ou ineficiente do condutor,Colisão com objeto,Com Vítimas Feridas,Anoitecer,Decrescente,Céu Claro,Múltipla,Não Informado,Sim
+681,domingo,Acumulo de areia ou detritos sobre o pavimento,Colisão frontal,Com Vítimas Fatais,Plena Noite,Crescente,Garoa/Chuvisco,Simples,Reta,Não
+682,sábado,Acumulo de água sobre o pavimento,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Simples,Curva,Não
+683,terça-feira,Condutor Dormindo,Colisão com objeto,Com Vítimas Feridas,Plena Noite,Decrescente,Ignorado,Dupla,Reta,Não
+684,domingo,Acessar a via sem observar a presença dos outros veículos,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Múltipla,Reta,Sim
+685,segunda-feira,Manobra de mudança de faixa,Colisão traseira,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Não Informado,Sim
+686,terça-feira,Ausência de reação do condutor,Capotamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+687,segunda-feira,Ultrapassagem Indevida,Colisão frontal,Com Vítimas Fatais,Anoitecer,Crescente,Céu Claro,Simples,Reta,Não
+688,quarta-feira,Desvio temporário,Capotamento,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Não Informado,Não
+689,segunda-feira,Ausência de reação do condutor,Colisão com objeto,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Dupla,Curva,Não
+690,segunda-feira,Manobra de mudança de faixa,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Interseção de vias,Sim
+691,segunda-feira,Ultrapassagem Indevida,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Simples,Desvio Temporário,Não
+692,terça-feira,Pista esburacada,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Simples,Reta,Não
+693,domingo,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+694,domingo,Frear bruscamente,Colisão lateral mesmo sentido,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Sim
+695,terça-feira,Condutor deixou de manter distância do veículo da frente,Engavetamento,Com Vítimas Feridas,Anoitecer,Crescente,Céu Claro,Simples,Reta,Não
+696,quinta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+697,quinta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+698,quarta-feira,Ausência de reação do condutor,Engavetamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+699,quinta-feira,Condutor deixou de manter distância do veículo da frente,Engavetamento,Sem Vítimas,Plena Noite,Crescente,Ignorado,Dupla,Reta,Sim
+700,sexta-feira,Velocidade Incompatível,Capotamento,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Dupla,Curva,Sim
+701,sábado,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Múltipla,Reta,Sim
+702,quarta-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Dupla,Interseção de vias,Sim
+703,sábado,Manobra de mudança de faixa,Capotamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+704,quarta-feira,Transitar no acostamento,Colisão transversal,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Sim
+705,quarta-feira,Demais falhas mecânicas ou elétricas,Incêndio,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Não
+706,terça-feira,Demais falhas mecânicas ou elétricas,Incêndio,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Simples,Desvio Temporário,Não
+707,sexta-feira,Mal súbito do condutor,Queda de ocupante de veículo,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Não
+708,quarta-feira,Ausência de reação do condutor,Capotamento,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Não
+709,domingo,Velocidade Incompatível,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Simples,Curva,Sim
+710,sexta-feira,Reação tardia ou ineficiente do condutor,Capotamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Múltipla,Reta,Sim
+711,quinta-feira,Demais falhas mecânicas ou elétricas,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Chuva,Simples,Curva,Não
+712,quinta-feira,Retorno proibido,Colisão transversal,Sem Vítimas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+713,domingo,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+714,quinta-feira,Velocidade Incompatível,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Simples,Curva,Não
+715,sábado,Pista Escorregadia,Colisão com objeto,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Dupla,Curva,Não
+716,quarta-feira,Ausência de reação do condutor,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Múltipla,Reta,Sim
+717,sexta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Interseção de vias,Sim
+718,quinta-feira,Problema com o freio,Incêndio,Sem Vítimas,Plena Noite,Decrescente,Nevoeiro/Neblina,Dupla,Reta,Sim
+719,quinta-feira,Ausência de reação do condutor,Saída de leito carroçável,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Múltipla,Reta,Sim
+720,terça-feira,Condutor deixou de manter distância do veículo da frente,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Simples,Reta,Não
+721,quarta-feira,Transitar no acostamento,Colisão lateral mesmo sentido,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Sim
+722,quarta-feira,Transitar na contramão,Colisão frontal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Não Informado,Não
+723,quinta-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+724,domingo,Demais falhas mecânicas ou elétricas,Saída de leito carroçável,Sem Vítimas,Anoitecer,Crescente,Céu Claro,Simples,Reta,Não
+725,sábado,Acessar a via sem observar a presença dos outros veículos,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Interseção de vias,Sim
+726,terça-feira,Transitar na contramão,Colisão lateral sentido oposto,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Sim
+727,quinta-feira,Transitar na contramão,Colisão frontal,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Simples,Curva,Não
+728,domingo,Condutor Dormindo,Capotamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+729,sábado,Condutor Dormindo,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Curva,Não
+730,terça-feira,Trafegar com motocicleta (ou similar) entre as faixas,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Dupla,Reta,Sim
+731,domingo,Velocidade Incompatível,Saída de leito carroçável,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Sim
+732,segunda-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+733,sábado,Ingestão de álcool pelo condutor,Saída de leito carroçável,Sem Vítimas,Amanhecer,Crescente,Chuva,Dupla,Não Informado,Sim
+734,terça-feira,Reação tardia ou ineficiente do condutor,Colisão lateral mesmo sentido,Com Vítimas Fatais,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+735,segunda-feira,Pedestre cruzava a pista fora da faixa,Atropelamento de Pedestre,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Dupla,Reta,Sim
+736,sexta-feira,Desrespeitar a preferência no cruzamento,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Simples,Interseção de vias,Sim
+737,segunda-feira,Condutor Dormindo,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Múltipla,Curva,Não
+738,quinta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Simples,Reta,Sim
+739,quarta-feira,Reação tardia ou ineficiente do condutor,Colisão com objeto,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Não
+740,sábado,Deficiência do Sistema de Iluminação/Sinalização,Tombamento,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Não Informado,Não
+741,sábado,Condutor desrespeitou a iluminação vermelha do semáforo,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Múltipla,Reta,Sim
+742,domingo,Animais na Pista,Atropelamento de Animal,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+743,domingo,Reação tardia ou ineficiente do condutor,Colisão com objeto,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Sim
+744,sexta-feira,Reação tardia ou ineficiente do condutor,Tombamento,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Sim
+745,quarta-feira,Manobra de mudança de faixa,Colisão lateral sentido oposto,Com Vítimas Feridas,Amanhecer,Crescente,Céu Claro,Simples,Curva,Não
+746,quinta-feira,Manobra de mudança de faixa,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+747,domingo,Retorno proibido,Colisão transversal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+748,quarta-feira,Desrespeitar a preferência no cruzamento,Colisão transversal,Com Vítimas Feridas,Plena Noite,Crescente,Garoa/Chuvisco,Simples,Rotatória,Não
+749,segunda-feira,Ingestão de álcool pelo condutor,Colisão frontal,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+750,domingo,Acessar a via sem observar a presença dos outros veículos,Colisão traseira,Sem Vítimas,Plena Noite,Crescente,Chuva,Dupla,Reta,Sim
+751,segunda-feira,Demais falhas mecânicas ou elétricas,Incêndio,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+752,sexta-feira,Velocidade Incompatível,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+753,domingo,Avarias e/ou desgaste excessivo no pneu,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Não
+754,domingo,Ultrapassagem Indevida,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Interseção de vias,Não
+755,sexta-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Dupla,Não Informado,Sim
+756,sábado,Transitar na contramão,Colisão lateral sentido oposto,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Curva,Não
+757,sábado,Ausência de reação do condutor,Colisão lateral sentido oposto,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Simples,Reta,Sim
+758,quarta-feira,Acumulo de água sobre o pavimento,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Simples,Reta,Não
+759,sexta-feira,Manobra de mudança de faixa,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+760,sábado,Desrespeitar a preferência no cruzamento,Colisão transversal,Com Vítimas Feridas,Plena Noite,Decrescente,Chuva,Simples,Interseção de vias,Sim
+761,quinta-feira,Ausência de reação do condutor,Colisão transversal,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Interseção de vias,Sim
+762,segunda-feira,Pista em desnível,Tombamento,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Simples,Não Informado,Não
+763,quinta-feira,Velocidade Incompatível,Capotamento,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+764,terça-feira,Transitar no acostamento,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Curva,Sim
+765,sábado,Mal súbito do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Não Informado,Sim
+766,sábado,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Dupla,Reta,Não
+767,sábado,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Simples,Interseção de vias,Não
+768,sexta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Sim
+769,terça-feira,Demais falhas mecânicas ou elétricas,Colisão traseira,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Sim
+770,quinta-feira,Ingestão de álcool pelo condutor,Colisão com objeto,Com Vítimas Feridas,Amanhecer,Decrescente,Céu Claro,Dupla,Reta,Sim
+771,sábado,Ingestão de álcool e/ou substâncias psicoativas pelo pedestre,Atropelamento de Pedestre,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+772,sábado,Entrada inopinada do pedestre,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Múltipla,Reta,Sim
+773,quarta-feira,Falta de acostamento,Queda de ocupante de veículo,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+774,sexta-feira,Ingestão de álcool pelo condutor,Queda de ocupante de veículo,Com Vítimas Fatais,Plena Noite,Decrescente,Chuva,Simples,Reta,Não
+775,sábado,Transitar na contramão,Colisão lateral sentido oposto,Com Vítimas Fatais,Plena Noite,Decrescente,Céu Claro,Simples,Não Informado,Não
+776,domingo,Transitar na contramão,Colisão frontal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Não Informado,Não
+777,segunda-feira,Trafegar com motocicleta (ou similar) entre as faixas,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Decrescente,Chuva,Dupla,Reta,Sim
+778,sábado,Acessar a via sem observar a presença dos outros veículos,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Chuva,Dupla,Reta,Não
+779,sábado,Acessar a via sem observar a presença dos outros veículos,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+780,domingo,Demais falhas mecânicas ou elétricas,Incêndio,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+781,sábado,Entrada inopinada do pedestre,Atropelamento de Pedestre,Com Vítimas Fatais,Pleno dia,Decrescente,Nublado,Dupla,Reta,Sim
+782,terça-feira,Carga excessiva e/ou mal acondicionada,Tombamento,Com Vítimas Feridas,Anoitecer,Decrescente,Céu Claro,Dupla,Curva,Não
+783,domingo,Condutor Dormindo,Capotamento,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+784,quarta-feira,Acumulo de água sobre o pavimento,Colisão com objeto,Sem Vítimas,Pleno dia,Crescente,Chuva,Dupla,Reta,Não
+785,quinta-feira,Manobra de mudança de faixa,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Chuva,Dupla,Reta,Sim
+786,segunda-feira,Velocidade Incompatível,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Crescente,Chuva,Dupla,Reta,Não
+787,sexta-feira,Ingestão de álcool pelo condutor,Colisão frontal,Com Vítimas Fatais,Plena Noite,Crescente,Chuva,Simples,Reta,Não
+788,sexta-feira,Ausência de reação do condutor,Engavetamento,Sem Vítimas,Plena Noite,Crescente,Nublado,Dupla,Não Informado,Sim
+789,terça-feira,Retorno proibido,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Reta,Sim
+790,sábado,Ingestão de álcool pelo condutor,Colisão transversal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+791,segunda-feira,Ingestão de substâncias psicoativas pelo condutor,Queda de ocupante de veículo,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Dupla,Reta,Não
+792,quinta-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Dupla,Reta,Sim
+793,terça-feira,Ingestão de álcool pelo condutor,Colisão traseira,Com Vítimas Feridas,Anoitecer,Decrescente,Céu Claro,Múltipla,Reta,Não
+794,segunda-feira,Pedestre andava na pista,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Dupla,Desvio Temporário,Não
+795,quarta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Não Informado,Sim
+796,sábado,Deficiência do Sistema de Iluminação/Sinalização,Incêndio,Sem Vítimas,Pleno dia,Crescente,Nublado,Dupla,Curva,Não
+797,segunda-feira,Ausência de reação do condutor,Tombamento,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Simples,Curva,Não
+798,segunda-feira,Acessar a via sem observar a presença dos outros veículos,Colisão lateral mesmo sentido,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+799,quinta-feira,Transitar na contramão,Colisão frontal,Com Vítimas Fatais,Pleno dia,Crescente,Céu Claro,Simples,Desvio Temporário,Não
+800,sábado,Acessar a via sem observar a presença dos outros veículos,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+801,sexta-feira,Mal súbito do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Dupla,Reta,Não
+802,quinta-feira,Pista em desnível,Tombamento,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+803,domingo,Ingestão de álcool pelo condutor,Colisão frontal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Sim
+804,domingo,Acumulo de água sobre o pavimento,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Simples,Curva,Não
+805,sexta-feira,Ultrapassagem Indevida,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Simples,Reta,Sim
+806,sexta-feira,Ingestão de álcool pelo condutor,Colisão com objeto,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+807,quinta-feira,Ultrapassagem Indevida,Colisão lateral mesmo sentido,Sem Vítimas,Anoitecer,Decrescente,Céu Claro,Simples,Reta,Não
+808,quinta-feira,Demais falhas mecânicas ou elétricas,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Dupla,Reta,Sim
+809,domingo,Desrespeitar a preferência no cruzamento,Colisão lateral sentido oposto,Sem Vítimas,Anoitecer,Crescente,Céu Claro,Dupla,Interseção de vias,Sim
+810,quarta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+811,sexta-feira,Desrespeitar a preferência no cruzamento,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Interseção de vias,Sim
+812,quarta-feira,Ausência de reação do condutor,Saída de leito carroçável,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Não
+813,domingo,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Não Informado,Não
+814,sexta-feira,Acessar a via sem observar a presença dos outros veículos,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+815,domingo,Entrada inopinada do pedestre,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+816,domingo,Reação tardia ou ineficiente do condutor,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Não Informado,Sim
+817,sábado,Animais na Pista,Atropelamento de Animal,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Não Informado,Não
+818,domingo,Demais falhas mecânicas ou elétricas,Incêndio,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+819,sexta-feira,Transitar na contramão,Colisão lateral sentido oposto,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+820,quarta-feira,Velocidade Incompatível,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+821,segunda-feira,Acumulo de água sobre o pavimento,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Chuva,Simples,Não Informado,Não
+822,terça-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Amanhecer,Crescente,Nublado,Dupla,Reta,Não
+823,segunda-feira,Conversão proibida,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Simples,Rotatória,Sim
+824,domingo,Transitar no acostamento,Atropelamento de Pedestre,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+825,terça-feira,Demais falhas mecânicas ou elétricas,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+826,quinta-feira,Velocidade Incompatível,Colisão com objeto,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Dupla,Reta,Não
+827,terça-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+828,domingo,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Sem Vítimas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Sim
+829,quarta-feira,Transitar na contramão,Colisão lateral sentido oposto,Com Vítimas Fatais,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+830,segunda-feira,Ausência de reação do condutor,Colisão lateral mesmo sentido,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+831,sábado,Reação tardia ou ineficiente do condutor,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Dupla,Reta,Sim
+832,domingo,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Simples,Curva,Não
+833,quarta-feira,Acessar a via sem observar a presença dos outros veículos,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Simples,Reta,Sim
+834,quarta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Sim
+835,domingo,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Simples,Reta,Não
+836,domingo,Reação tardia ou ineficiente do condutor,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+837,terça-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Anoitecer,Decrescente,Céu Claro,Dupla,Reta,Sim
+838,terça-feira,Condutor Dormindo,Tombamento,Sem Vítimas,Amanhecer,Decrescente,Céu Claro,Simples,Reta,Não
+839,quarta-feira,Transitar na contramão,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Sim
+840,sábado,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Não Informado,Não
+841,quarta-feira,Acesso irregular,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Simples,Curva,Não
+842,domingo,Velocidade Incompatível,Tombamento,Com Vítimas Feridas,Anoitecer,Crescente,Céu Claro,Simples,Reta,Não
+843,domingo,Velocidade Incompatível,Colisão com objeto,Sem Vítimas,Pleno dia,Crescente,Sol,Múltipla,Reta,Não
+844,domingo,Velocidade Incompatível,Colisão lateral mesmo sentido,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Sim
+845,sábado,Reação tardia ou ineficiente do condutor,Colisão com objeto,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Dupla,Curva,Não
+846,terça-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+847,sábado,Acesso irregular,Tombamento,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Sim
+848,sábado,Pedestre andava na pista,Atropelamento de Pedestre,Com Vítimas Fatais,Pleno dia,Decrescente,Céu Claro,Múltipla,Curva,Sim
+849,segunda-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Sim
+850,domingo,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Dupla,Reta,Não
+851,domingo,Condutor Dormindo,Saída de leito carroçável,Com Vítimas Feridas,Amanhecer,Crescente,Céu Claro,Simples,Reta,Não
+852,terça-feira,Velocidade Incompatível,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Simples,Reta,Sim
+853,segunda-feira,Retorno proibido,Colisão transversal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+854,sexta-feira,Carga excessiva e/ou mal acondicionada,Colisão lateral sentido oposto,Com Vítimas Feridas,Anoitecer,Decrescente,Nublado,Simples,Não Informado,Não
+855,segunda-feira,Demais falhas mecânicas ou elétricas,Incêndio,Sem Vítimas,Plena Noite,Crescente,Nublado,Simples,Reta,Não
+856,sábado,Transitar na contramão,Colisão lateral sentido oposto,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Não Informado,Não
+857,sexta-feira,Desrespeitar a preferência no cruzamento,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+858,segunda-feira,Objeto estático sobre o leito carroçável,Tombamento,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Sim
+859,sábado,Ingestão de álcool pelo condutor,Capotamento,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Dupla,Não Informado,Não
+860,segunda-feira,Reação tardia ou ineficiente do condutor,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Ignorado,Dupla,Interseção de vias,Sim
+861,domingo,Reação tardia ou ineficiente do condutor,Tombamento,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Sim
+862,quarta-feira,Acessar a via sem observar a presença dos outros veículos,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Não Informado,Não
+863,domingo,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Não Informado,Não
+864,quarta-feira,Acesso irregular,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Não
+865,segunda-feira,Pista Escorregadia,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+866,domingo,Condutor Dormindo,Colisão traseira,Com Vítimas Feridas,Amanhecer,Crescente,Céu Claro,Dupla,Desvio Temporário,Não
+867,sábado,Ingestão de álcool e/ou substâncias psicoativas pelo pedestre,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+868,domingo,Manobra de mudança de faixa,Colisão lateral sentido oposto,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Sim
+869,domingo,Reação tardia ou ineficiente do condutor,Colisão traseira,Sem Vítimas,Pleno dia,Decrescente,Céu Claro,Múltipla,Reta,Não
+870,quinta-feira,Acessar a via sem observar a presença dos outros veículos,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+871,sábado,Ausência de reação do condutor,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Dupla,Não Informado,Não
+872,terça-feira,Demais falhas mecânicas ou elétricas,Incêndio,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+873,domingo,Manobra de mudança de faixa,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+874,terça-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Múltipla,Reta,Sim
+875,segunda-feira,Obstrução na via,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+876,segunda-feira,Avarias e/ou desgaste excessivo no pneu,Tombamento,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Não
+877,quinta-feira,Condutor Dormindo,Colisão com objeto,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+878,sábado,Pedestre cruzava a pista fora da faixa,Atropelamento de Pedestre,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Rotatória,Sim
+879,quarta-feira,Condutor Dormindo,Colisão lateral mesmo sentido,Com Vítimas Feridas,Amanhecer,Decrescente,Céu Claro,Dupla,Reta,Sim
+880,quinta-feira,Desrespeitar a preferência no cruzamento,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Não Informado,Sim
+881,domingo,Ingestão de álcool pelo condutor,Colisão lateral sentido oposto,Com Vítimas Feridas,Plena Noite,Decrescente,Chuva,Simples,Reta,Sim
+882,sexta-feira,Condutor usando celular,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Múltipla,Reta,Sim
+883,quarta-feira,Trafegar com motocicleta (ou similar) entre as faixas,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Sim
+884,quinta-feira,Ausência de reação do condutor,Colisão com objeto,Sem Vítimas,Pleno dia,Crescente,Nublado,Dupla,Reta,Não
+885,terça-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Sim
+886,quarta-feira,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Não Informado,Não
+887,sábado,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Múltipla,Reta,Sim
+888,sexta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão lateral mesmo sentido,Com Vítimas Feridas,Anoitecer,Crescente,Céu Claro,Dupla,Reta,Sim
+889,segunda-feira,Entrada inopinada do pedestre,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Decrescente,Chuva,Dupla,Reta,Sim
+890,segunda-feira,Velocidade Incompatível,Saída de leito carroçável,Com Vítimas Fatais,Amanhecer,Crescente,Nevoeiro/Neblina,Simples,Curva,Não
+891,domingo,Condutor Dormindo,Colisão com objeto,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Múltipla,Reta,Sim
+892,domingo,Transitar na contramão,Colisão transversal,Com Vítimas Feridas,Anoitecer,Decrescente,Céu Claro,Simples,Curva,Não
+893,quinta-feira,Velocidade Incompatível,Colisão traseira,Com Vítimas Fatais,Plena Noite,Crescente,Céu Claro,Simples,Não Informado,Não
+894,sábado,Ultrapassagem Indevida,Colisão frontal,Com Vítimas Fatais,Anoitecer,Crescente,Céu Claro,Simples,Reta,Não
+895,segunda-feira,Ingestão de álcool pelo condutor,Queda de ocupante de veículo,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Múltipla,Reta,Sim
+896,domingo,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+897,domingo,Pedestre cruzava a pista fora da faixa,Atropelamento de Pedestre,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Simples,Reta,Não
+898,segunda-feira,Demais falhas mecânicas ou elétricas,Incêndio,Sem Vítimas,Pleno dia,Decrescente,Nublado,Dupla,Não Informado,Não
+899,sábado,Ausência de reação do condutor,Colisão traseira,Com Vítimas Fatais,Plena Noite,Decrescente,Nublado,Dupla,Reta,Sim
+900,terça-feira,Transitar na contramão,Colisão frontal,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Simples,Reta,Não
+901,segunda-feira,Condutor Dormindo,Colisão com objeto,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+902,domingo,Transitar na contramão,Colisão frontal,Sem Vítimas,Amanhecer,Crescente,Chuva,Simples,Curva,Não
+903,terça-feira,Reação tardia ou ineficiente do condutor,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Decrescente,Ignorado,Simples,Reta,Não
+904,sábado,Ingestão de álcool pelo condutor,Colisão lateral mesmo sentido,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+905,domingo,Conversão proibida,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+906,quarta-feira,Reação tardia ou ineficiente do condutor,Colisão frontal,Com Vítimas Fatais,Plena Noite,Crescente,Céu Claro,Simples,Não Informado,Não
+907,sexta-feira,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+908,domingo,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Dupla,Reta,Sim
+909,domingo,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+910,quinta-feira,Acessar a via sem observar a presença dos outros veículos,Queda de ocupante de veículo,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Dupla,Desvio Temporário,Não
+911,terça-feira,Reação tardia ou ineficiente do condutor,Tombamento,Com Vítimas Feridas,Plena Noite,Decrescente,Chuva,Simples,Curva,Não
+912,segunda-feira,Velocidade Incompatível,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Curva,Não
+913,sábado,Reação tardia ou ineficiente do condutor,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Dupla,Reta,Sim
+914,segunda-feira,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+915,domingo,Demais falhas mecânicas ou elétricas,Tombamento,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Não
+916,domingo,Condutor usando celular,Colisão traseira,Sem Vítimas,Anoitecer,Crescente,Céu Claro,Dupla,Reta,Não
+917,sábado,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Interseção de vias,Sim
+918,sábado,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Simples,Reta,Não
+919,quinta-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+920,terça-feira,Demais falhas mecânicas ou elétricas,Eventos atípicos,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+921,terça-feira,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Garoa/Chuvisco,Simples,Reta,Não
+922,quarta-feira,Ausência de reação do condutor,Colisão traseira,Sem Vítimas,Amanhecer,Decrescente,Nublado,Dupla,Não Informado,Sim
+923,quarta-feira,Demais falhas mecânicas ou elétricas,Queda de ocupante de veículo,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Dupla,Reta,Sim
+924,domingo,Reação tardia ou ineficiente do condutor,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Reta,Sim
+925,sexta-feira,Velocidade Incompatível,Colisão transversal,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Interseção de vias,Sim
+926,quarta-feira,Retorno proibido,Colisão transversal,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Dupla,Reta,Sim
+927,quarta-feira,Condutor deixou de manter distância do veículo da frente,Capotamento,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Sim
+928,sábado,Reação tardia ou ineficiente do condutor,Colisão com objeto,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Dupla,Não Informado,Não
+929,quinta-feira,Acesso irregular,Colisão frontal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Múltipla,Interseção de vias,Sim
+930,quarta-feira,Conversão proibida,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+931,segunda-feira,Demais falhas mecânicas ou elétricas,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+932,segunda-feira,Objeto estático sobre o leito carroçável,Colisão com objeto,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Curva,Não
+933,sábado,Ingestão de álcool pelo condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Dupla,Curva,Sim
+934,sexta-feira,Condutor deixou de manter distância do veículo da frente,Engavetamento,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+935,quarta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Interseção de vias,Não
+936,sexta-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Dupla,Reta,Sim
+937,quinta-feira,Reação tardia ou ineficiente do condutor,Tombamento,Sem Vítimas,Pleno dia,Crescente,Nublado,Dupla,Reta,Não
+938,sábado,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+939,domingo,Entrada inopinada do pedestre,Tombamento,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Sim
+940,quarta-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Dupla,Reta,Sim
+941,quarta-feira,Animais na Pista,Colisão com objeto,Com Vítimas Feridas,Amanhecer,Crescente,Nublado,Dupla,Reta,Não
+942,quinta-feira,Transitar na contramão,Colisão frontal,Com Vítimas Fatais,Plena Noite,Crescente,Nevoeiro/Neblina,Simples,Reta,Não
+943,quinta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Dupla,Reta,Sim
+944,terça-feira,Animais na Pista,Atropelamento de Animal,Com Vítimas Fatais,Pleno dia,Crescente,Céu Claro,Dupla,Curva,Não
+945,terça-feira,Ausência de reação do condutor,Tombamento,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Sim
+946,quinta-feira,Conversão proibida,Colisão transversal,Com Vítimas Feridas,Plena Noite,Crescente,Garoa/Chuvisco,Simples,Não Informado,Sim
+947,terça-feira,Conversão proibida,Colisão lateral sentido oposto,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Interseção de vias,Não
+948,quarta-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Dupla,Reta,Sim
+949,terça-feira,Demais falhas mecânicas ou elétricas,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+950,terça-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Simples,Reta,Sim
+951,sábado,Pista esburacada,Capotamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Curva,Não
+952,sábado,Velocidade Incompatível,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Curva,Não
+953,segunda-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Sem Vítimas,Pleno dia,Decrescente,Sol,Dupla,Rotatória,Sim
+954,sexta-feira,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+955,sexta-feira,Ingestão de álcool pelo condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+956,quinta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Dupla,Reta,Sim
+957,segunda-feira,Acesso irregular,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+958,quinta-feira,Reação tardia ou ineficiente do condutor,Tombamento,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+959,quarta-feira,Conversão proibida,Colisão transversal,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Simples,Reta,Sim
+960,quarta-feira,Afundamento ou ondulação no pavimento,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+961,sábado,Ingestão de álcool pelo condutor,Colisão traseira,Sem Vítimas,Plena Noite,Crescente,Nublado,Simples,Reta,Não
+962,sábado,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Sem Vítimas,Plena Noite,Crescente,Chuva,Múltipla,Reta,Sim
+963,segunda-feira,Velocidade Incompatível,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Garoa/Chuvisco,Dupla,Não Informado,Não
+964,sexta-feira,Transitar na contramão,Colisão frontal,Com Vítimas Fatais,Anoitecer,Crescente,Nublado,Simples,Curva,Sim
+965,domingo,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Dupla,Interseção de vias,Sim
+966,sábado,Reação tardia ou ineficiente do condutor,Colisão traseira,Sem Vítimas,Plena Noite,Crescente,Garoa/Chuvisco,Dupla,Reta,Sim
+967,sábado,Desrespeitar a preferência no cruzamento,Colisão transversal,Com Vítimas Feridas,Anoitecer,Decrescente,Céu Claro,Dupla,Interseção de vias,Sim
+968,domingo,Ingestão de álcool ou de substâncias psicoativas pelo pedestre,Atropelamento de Pedestre,Com Vítimas Fatais,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Sim
+969,terça-feira,Pedestre andava na pista,Atropelamento de Pedestre,Com Vítimas Feridas,Anoitecer,Crescente,Nublado,Múltipla,Interseção de vias,Sim
+970,domingo,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Dupla,Curva,Não
+971,terça-feira,Acessar a via sem observar a presença dos outros veículos,Colisão lateral mesmo sentido,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Sim
+972,quinta-feira,Ausência de reação do condutor,Colisão frontal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+973,quinta-feira,Demais falhas mecânicas ou elétricas,Colisão com objeto,Sem Vítimas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+974,segunda-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Anoitecer,Crescente,Céu Claro,Dupla,Não Informado,Não
+975,sábado,Carga excessiva e/ou mal acondicionada,Colisão com objeto,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Dupla,Reta,Sim
+976,quarta-feira,Frear bruscamente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+977,quarta-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Não Informado,Sim
+978,quinta-feira,Velocidade Incompatível,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Curva,Não
+979,sábado,Objeto estático sobre o leito carroçável,Queda de ocupante de veículo,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Múltipla,Reta,Sim
+980,terça-feira,Trafegar com motocicleta (ou similar) entre as faixas,Colisão traseira,Com Vítimas Feridas,Amanhecer,Crescente,Céu Claro,Dupla,Reta,Sim
+981,sábado,Ingestão de álcool pelo condutor,Saída de leito carroçável,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Simples,Curva,Sim
+982,sábado,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+983,sábado,Sinalização mal posicionada,Saída de leito carroçável,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Dupla,Não Informado,Não
+984,quinta-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Dupla,Não Informado,Não
+985,terça-feira,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+986,quinta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Chuva,Simples,Reta,Não
+987,sábado,Desrespeitar a preferência no cruzamento,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Dupla,Retorno Regulamentado,Sim
+988,domingo,Transitar na contramão,Colisão frontal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+989,sábado,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Simples,Reta,Sim
+990,terça-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Dupla,Não Informado,Sim
+991,segunda-feira,Acumulo de água sobre o pavimento,Saída de leito carroçável,Com Vítimas Feridas,Anoitecer,Decrescente,Chuva,Dupla,Rotatória,Não
+992,quinta-feira,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Não
+993,sexta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Sim
+994,terça-feira,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+995,segunda-feira,Desrespeitar a preferência no cruzamento,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Múltipla,Não Informado,Sim
+996,sexta-feira,Transitar no acostamento,Colisão transversal,Com Vítimas Feridas,Anoitecer,Crescente,Nublado,Simples,Reta,Sim
+997,terça-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Dupla,Reta,Sim
+998,quinta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Múltipla,Reta,Não
+999,segunda-feira,Velocidade Incompatível,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+1000,terça-feira,Animais na Pista,Atropelamento de Animal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Desvio Temporário,Não
+1001,terça-feira,Avarias e/ou desgaste excessivo no pneu,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Reta,Não
+1002,sábado,Manobra de mudança de faixa,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+1003,domingo,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Não Informado,Não
+1004,quinta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Sol,Múltipla,Não Informado,Não
+1005,sábado,Reação tardia ou ineficiente do condutor,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Sim
+1006,sexta-feira,Ingestão de álcool pelo condutor,Colisão traseira,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Múltipla,Reta,Sim
+1007,quarta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Sim
+1008,sábado,Velocidade Incompatível,Colisão com objeto,Sem Vítimas,Amanhecer,Decrescente,Céu Claro,Simples,Retorno Regulamentado,Sim
+1009,domingo,Ausência de reação do condutor,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Dupla,Não Informado,Não
+1010,quarta-feira,Ultrapassagem Indevida,Colisão frontal,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+1011,terça-feira,Ultrapassagem Indevida,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Curva,Não
+1012,quinta-feira,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+1013,sexta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+1014,quinta-feira,Ultrapassagem Indevida,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Desvio Temporário,Não
+1015,terça-feira,Ausência de reação do condutor,Engavetamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Não Informado,Não
+1016,quinta-feira,Reação tardia ou ineficiente do condutor,Colisão com objeto,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Sim
+1017,sexta-feira,Ingestão de álcool pelo condutor,Colisão com objeto,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Sim
+1018,segunda-feira,Ausência de reação do condutor,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+1019,sexta-feira,Ingestão de álcool pelo condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Múltipla,Reta,Sim
+1020,sexta-feira,Acessar a via sem observar a presença dos outros veículos,Atropelamento de Pedestre,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Sim
+1021,segunda-feira,Ingestão de álcool pelo condutor,Colisão frontal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Não Informado,Não
+1022,sábado,Demais falhas mecânicas ou elétricas,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+1023,sábado,Reação tardia ou ineficiente do condutor,Colisão com objeto,Sem Vítimas,Plena Noite,Decrescente,Nublado,Simples,Reta,Não
+1024,sexta-feira,Ausência de reação do condutor,Tombamento,Com Vítimas Feridas,Plena Noite,Decrescente,Chuva,Dupla,Curva,Não
+1025,quinta-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+1026,terça-feira,Condutor deixou de manter distância do veículo da frente,Tombamento,Com Vítimas Feridas,Pleno dia,Decrescente,Chuva,Múltipla,Curva,Não
+1027,quarta-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Não
+1028,domingo,Animais na Pista,Atropelamento de Animal,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Múltipla,Reta,Sim
+1029,sexta-feira,Reação tardia ou ineficiente do condutor,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Chuva,Múltipla,Reta,Sim
+1030,quinta-feira,Acessar a via sem observar a presença dos outros veículos,Atropelamento de Pedestre,Com Vítimas Feridas,Pleno dia,Crescente,Garoa/Chuvisco,Simples,Reta,Sim
+1031,sábado,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Vento,Múltipla,Não Informado,Sim
+1032,terça-feira,Demais falhas mecânicas ou elétricas,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Não Informado,Não
+1033,domingo,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Dupla,Não Informado,Sim
+1034,sábado,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Fatais,Plena Noite,Crescente,Céu Claro,Simples,Reta,Sim
+1035,segunda-feira,Conversão proibida,Saída de leito carroçável,Sem Vítimas,Plena Noite,Crescente,Chuva,Dupla,Reta,Não
+1036,sexta-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Dupla,Reta,Não
+1037,sexta-feira,Condutor deixou de manter distância do veículo da frente,Colisão com objeto,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Reta,Não
+1038,sexta-feira,Demais falhas mecânicas ou elétricas,Tombamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+1039,terça-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Sem Vítimas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+1040,quinta-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Múltipla,Reta,Não
+1041,sexta-feira,Reação tardia ou ineficiente do condutor,Colisão frontal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Sim
+1042,quinta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Desvio Temporário,Não
+1043,sexta-feira,Deficiência do Sistema de Iluminação/Sinalização,Colisão traseira,Com Vítimas Feridas,Amanhecer,Decrescente,Céu Claro,Dupla,Reta,Não
+1044,sexta-feira,Acumulo de areia ou detritos sobre o pavimento,Colisão transversal,Com Vítimas Feridas,Anoitecer,Decrescente,Céu Claro,Dupla,Viaduto,Sim
+1045,sábado,Modificação proibida,Colisão lateral mesmo sentido,Sem Vítimas,Plena Noite,Não Informado,Nublado,Dupla,Reta,Sim
+1046,quinta-feira,Condutor deixou de manter distância do veículo da frente,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Múltipla,Reta,Sim
+1047,sábado,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Fatais,Pleno dia,Crescente,Nublado,Simples,Curva,Não
+1048,segunda-feira,Pista Escorregadia,Capotamento,Com Vítimas Feridas,Pleno dia,Decrescente,Garoa/Chuvisco,Simples,Curva,Não
+1049,sábado,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Simples,Não Informado,Não
+1050,sábado,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Curva,Não
+1051,sábado,Ausência de reação do condutor,Saída de leito carroçável,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Dupla,Reta,Sim
+1052,terça-feira,Avarias e/ou desgaste excessivo no pneu,Colisão com objeto,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+1053,sexta-feira,Desrespeitar a preferência no cruzamento,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Interseção de vias,Sim
+1054,sábado,Ausência de reação do condutor,Colisão traseira,Sem Vítimas,Anoitecer,Crescente,Céu Claro,Dupla,Retorno Regulamentado,Sim
+1055,quarta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Múltipla,Interseção de vias,Sim
+1056,terça-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Simples,Não Informado,Não
+1057,quinta-feira,Entrada inopinada do pedestre,Atropelamento de Pedestre,Com Vítimas Fatais,Plena Noite,Crescente,Chuva,Simples,Reta,Não
+1058,domingo,Ingestão de álcool pelo condutor,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Simples,Reta,Não
+1059,sábado,Animais na Pista,Atropelamento de Animal,Com Vítimas Feridas,Plena Noite,Decrescente,Céu Claro,Simples,Reta,Não
+1060,quarta-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Simples,Reta,Não
+1061,sábado,Ingestão de álcool pelo condutor,Colisão traseira,Sem Vítimas,Plena Noite,Decrescente,Céu Claro,Múltipla,Reta,Não
+1062,sexta-feira,Condutor deixou de manter distância do veículo da frente,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Não Informado,Sim
+1063,domingo,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Não Informado,Não
+1064,quarta-feira,Reação tardia ou ineficiente do condutor,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Viaduto,Não
+1065,quarta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+1066,segunda-feira,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Amanhecer,Crescente,Nevoeiro/Neblina,Dupla,Reta,Não
+1067,sexta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Dupla,Reta,Sim
+1068,domingo,Transitar na contramão,Colisão frontal,Com Vítimas Feridas,Plena Noite,Crescente,Nevoeiro/Neblina,Simples,Reta,Não
+1069,domingo,Ausência de reação do condutor,Engavetamento,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+1070,quinta-feira,Ausência de reação do condutor,Colisão transversal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+1071,quarta-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Rotatória,Sim
+1072,sexta-feira,Demais Fenômenos da natureza,Eventos atípicos,Sem Vítimas,Pleno dia,Crescente,Chuva,Simples,Reta,Sim
+1073,quarta-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Dupla,Reta,Sim
+1074,quinta-feira,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Anoitecer,Decrescente,Céu Claro,Dupla,Ponte,Sim
+1075,sábado,Pista em desnível,Queda de ocupante de veículo,Com Vítimas Fatais,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+1076,sábado,Acessar a via sem observar a presença dos outros veículos,Colisão transversal,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Dupla,Retorno Regulamentado,Sim
+1077,sábado,Demais falhas mecânicas ou elétricas,Incêndio,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Não
+1078,terça-feira,Velocidade Incompatível,Capotamento,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+1079,sexta-feira,Ultrapassagem Indevida,Colisão frontal,Com Vítimas Fatais,Pleno dia,Crescente,Céu Claro,Simples,Curva,Não
+1080,sábado,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Viaduto,Sim
+1081,sexta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Não Informado,Não
+1082,sábado,Ingestão de álcool pelo condutor,Colisão frontal,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+1083,segunda-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Simples,Curva,Não
+1084,sábado,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Chuva,Dupla,Reta,Sim
+1085,sexta-feira,Demais falhas mecânicas ou elétricas,Colisão com objeto,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Dupla,Não Informado,Não
+1086,quarta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Múltipla,Reta,Sim
+1087,quinta-feira,Trafegar com motocicleta (ou similar) entre as faixas,Colisão frontal,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Simples,Ponte,Sim
+1088,terça-feira,Manobra de mudança de faixa,Colisão com objeto,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+1089,domingo,Demais falhas mecânicas ou elétricas,Saída de leito carroçável,Sem Vítimas,Plena Noite,Decrescente,Nublado,Dupla,Reta,Não
+1090,quarta-feira,Velocidade Incompatível,Tombamento,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Simples,Curva,Não
+1091,quarta-feira,Velocidade Incompatível,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Nublado,Dupla,Reta,Não
+1092,terça-feira,Reação tardia ou ineficiente do condutor,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Dupla,Reta,Não
+1093,sábado,Acesso irregular,Colisão traseira,Sem Vítimas,Plena Noite,Crescente,Ignorado,Simples,Reta,Sim
+1094,domingo,Ausência de reação do condutor,Queda de ocupante de veículo,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
+1095,quarta-feira,Demais falhas na via,Tombamento,Com Vítimas Feridas,Amanhecer,Crescente,Nublado,Simples,Rotatória,Não
+1096,sábado,Reação tardia ou ineficiente do condutor,Colisão traseira,Sem Vítimas,Amanhecer,Crescente,Céu Claro,Dupla,Reta,Sim
+1097,domingo,Velocidade Incompatível,Eventos atípicos,Com Vítimas Fatais,Plena Noite,Crescente,Ignorado,Simples,Curva,Não
+1098,terça-feira,Ingestão de álcool pelo condutor,Colisão transversal,Sem Vítimas,Plena Noite,Crescente,Nublado,Simples,Rotatória,Sim
+1099,quarta-feira,Transitar na contramão,Colisão frontal,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Sim
+1100,segunda-feira,Demais falhas mecânicas ou elétricas,Incêndio,Sem Vítimas,Pleno dia,Decrescente,Sol,Múltipla,Reta,Sim
+1101,terça-feira,Trafegar com motocicleta (ou similar) entre as faixas,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Sim
+1102,segunda-feira,Transitar na contramão,Colisão lateral sentido oposto,Com Vítimas Feridas,Amanhecer,Decrescente,Chuva,Simples,Curva,Não
+1103,domingo,Transitar na contramão,Colisão frontal,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Simples,Rotatória,Sim
+1104,sábado,Ausência de reação do condutor,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+1105,sexta-feira,Ultrapassagem Indevida,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Desvio Temporário,Não
+1106,quinta-feira,Acessar a via sem observar a presença dos outros veículos,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Retorno Regulamentado,Não
+1107,sábado,Acesso irregular,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Sim
+1108,sexta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Plena Noite,Crescente,Nublado,Simples,Reta,Sim
+1109,terça-feira,Afundamento ou ondulação no pavimento,Tombamento,Com Vítimas Feridas,Pleno dia,Decrescente,Nublado,Dupla,Curva,Não
+1110,segunda-feira,Pedestre andava na pista,Atropelamento de Pedestre,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Não Informado,Não
+1111,quinta-feira,Ausência de reação do condutor,Saída de leito carroçável,Com Vítimas Feridas,Pleno dia,Decrescente,Céu Claro,Simples,Reta,Não
+1112,quinta-feira,Transitar na contramão,Tombamento,Com Vítimas Fatais,Amanhecer,Crescente,Céu Claro,Simples,Não Informado,Não
+1113,terça-feira,Acesso irregular,Colisão transversal,Com Vítimas Feridas,Amanhecer,Crescente,Céu Claro,Dupla,Não Informado,Sim
+1114,quinta-feira,Demais falhas mecânicas ou elétricas,Capotamento,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Simples,Reta,Não
+1115,terça-feira,Ingestão de álcool pelo condutor,Colisão com objeto,Com Vítimas Feridas,Plena Noite,Decrescente,Nublado,Simples,Curva,Sim
+1116,sexta-feira,Ingestão de álcool pelo condutor,Saída de leito carroçável,Sem Vítimas,Pleno dia,Crescente,Chuva,Dupla,Curva,Não
+1117,segunda-feira,Reação tardia ou ineficiente do condutor,Saída de leito carroçável,Com Vítimas Feridas,Amanhecer,Crescente,Céu Claro,Dupla,Não Informado,Não
+1118,domingo,Manobra de mudança de faixa,Colisão traseira,Com Vítimas Feridas,Pleno dia,Decrescente,Sol,Dupla,Reta,Sim
+1119,sábado,Velocidade Incompatível,Colisão transversal,Com Vítimas Feridas,Anoitecer,Crescente,Nublado,Simples,Não Informado,Não
+1120,sexta-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Plena Noite,Decrescente,Chuva,Simples,Não Informado,Não
+1121,segunda-feira,Condutor deixou de manter distância do veículo da frente,Colisão traseira,Com Vítimas Feridas,Plena Noite,Decrescente,Chuva,Dupla,Viaduto,Sim
+1122,quinta-feira,Condutor desrespeitou a iluminação vermelha do semáforo,Colisão transversal,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Não Informado,Sim
+1123,sexta-feira,Acumulo de água sobre o pavimento,Queda de ocupante de veículo,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Simples,Reta,Sim
+1124,quinta-feira,Trafegar com motocicleta (ou similar) entre as faixas,Colisão lateral mesmo sentido,Com Vítimas Feridas,Anoitecer,Crescente,Céu Claro,Dupla,Reta,Sim
+1125,domingo,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Simples,Desvio Temporário,Não
+1126,quinta-feira,Ingestão de álcool pelo condutor,Colisão frontal,Sem Vítimas,Plena Noite,Não Informado,Céu Claro,Dupla,Não Informado,Sim
+1127,segunda-feira,Reação tardia ou ineficiente do condutor,Colisão traseira,Com Vítimas Feridas,Pleno dia,Crescente,Céu Claro,Dupla,Reta,Não
+1128,sábado,Ingestão de álcool pelo condutor,Colisão lateral sentido oposto,Sem Vítimas,Plena Noite,Crescente,Céu Claro,Dupla,Reta,Sim
+1129,quinta-feira,Ausência de reação do condutor,Engavetamento,Com Vítimas Feridas,Amanhecer,Decrescente,Céu Claro,Dupla,Reta,Não
+1130,sábado,Ausência de reação do condutor,Colisão lateral sentido oposto,Com Vítimas Feridas,Pleno dia,Crescente,Chuva,Simples,Reta,Não
+1131,domingo,Ingestão de álcool pelo condutor,Engavetamento,Sem Vítimas,Pleno dia,Crescente,Céu Claro,Dupla,Interseção de vias,Sim
+1132,sábado,Animais na Pista,Atropelamento de Animal,Com Vítimas Fatais,Plena Noite,Decrescente,Chuva,Simples,Reta,Sim
+1133,segunda-feira,Manobra de mudança de faixa,Colisão lateral mesmo sentido,Com Vítimas Feridas,Pleno dia,Crescente,Garoa/Chuvisco,Dupla,Reta,Sim
+1134,domingo,Manobra de mudança de faixa,Colisão frontal,Com Vítimas Fatais,Plena Noite,Crescente,Céu Claro,Simples,Reta,Não
